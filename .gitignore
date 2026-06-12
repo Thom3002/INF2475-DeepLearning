@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data — sensitive, never commit
+data/raw/
+data/processed/
+data/synthetic/
+
+# Model weights & checkpoints
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+
+# Logs & outputs
+logs/
+*.log
+outputs/
+
+# Tests
+.coverage
+.pytest_cache/
+htmlcov/
