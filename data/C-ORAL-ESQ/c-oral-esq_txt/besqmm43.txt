@@ -1,0 +1,493 @@
+*MAR: <boa tarde> //
+*MAJ: boa tarde / dona <yyy> / tudo bem //
+*MAR: tudo <bem> //
+*MAJ: <meu> / nome é Marcelo / né / como tava te falando anteriormente / eu sou médico residente aqui / tá / do programa da Psiquiatria / vou fazer seu atendimento hoje / tá //
+*MAR: aque' outro saiu //
+*MAJ: saiu //
+*MAR: <Gabriel> //
+*MAJ: quem que aqui / te atendeu anteriormente era o doutor Gabriel / <nũ era> //
+*MAR: <é> //
+*MAJ: <ele> acabou a residência //
+*MAR: <ah> //
+*MAJ: <já concluiu> //
+*MAJ: né //
+*MAR: sei //
+*MAJ: &he / aí esse ano eu que vou te acompanhar //
+*MAJ: eu e alguns / colegas meus no dia que eu não tiver //
+*MAJ: tá bom //
+*MAR: ham ham //
+*MAJ: &he / como hoje é a nossa primeira consulta / só pr' eu conhecer um pouco a senhora melhor / hoje a senhora tá com quantos anos //
+*MAR: cinquenta-e-sete //
+*MAJ: cinquenta-e-sete //
+*MAR: é //
+*MAJ: correto //
+*MAJ: mora aonde //
+*MAR: Ribeirão das Neves //
+*MAJ: Ribeirão das Neves / siora mora c' quem lá //
+*MAR: &me [/1] meu esposo e minha filha //
+*MAJ: esposo e sua filha //
+*MAJ: seu esposo chama como //
+*MAR: é yyy //
+*MAJ: yyy //
+*MAR: <é> //
+*MAJ: <entendi> //
+*MAJ: sua filha //
+*MAR: yyy //
+*MAJ: yyy //
+*MAR: <&nã> &t +
+*MAJ: é sua única filha / ou a <senhora> tem outros filhos //
+*MAR: tem outra / mais velha //
+*MAJ: tem outros filhos //
+*MAR: <é> //
+*MAJ: <yyyy> / cê tem / duas filhas então //
+*MAR: duas filha //
+*MAJ: a outra mora aqui também / <na região> //
+*MAR: <ea mora em> [/3] ea mora lá em [/2] lá em / Contagem //
+*MAR: perto da CEASA //
+*MAJ: é pertim então //
+*MAR: é //
+*MAJ: pro outro lado / né na <verdade> //
+*MAR: <é> //
+*MAJ: mas oquei //
+*MAR: é //
+*MAR: <trabalho> //
+*MAJ: &he / a senhora trabalha com alguma coisa / <dona yyy> //
+*MAJ: com o quê //
+*MAR: eu tô sou / técnica de saúde bucal //
+*MAJ: técnica de saúde bucal //
+*MAR: é //
+*MAJ: trabalha lá em Ribeirão das Neves <mesmo> //
+*MAR: <não> / trabalho em beagá //
+*MAJ: beagá //
+*MAR: <é> //
+*MAJ: <entendi> / hum hum //
+*MAR: Belo Horizonte //
+*MAJ: correto //
+*MAJ: chegou a acabar ensino médio / fez &ensi [/1] ensino técnico //
+*MAR: eu &fi [/2] eu fiz o [/1] o médio / e o técnico //
+*MAJ: técnico //
+*MAR: <é> //
+*MAJ: <entendi> //
+*MAJ: tá joia //
+*MAJ: &he / e a siora acompanha aqui tem muito tempo / dona yyy //
+*MAR: desde dois-mil-e-&de [/1] dois-mil-e-dezoito //
+*MAJ: desde dois-mil-e-dezoito //
+*MAR: <é>
+*MAJ: e a <siora> tá tendo acompanhamento aqui por qual motivo //
+*MAJ: <hum hum> //
+*MAR: é porque eu &ti [/2] eu tive uma crise / aí eu &fique [/3] &a aí eu [/1] eu [/1] eu fiquei / no mato / perdida no mato / <dez> dias //
+*MAJ: foi mesmo //
+*MAR: é //
+*MAJ: hum hum //
+*MAR: aí eu emagreci bastante / né andava [/1] ficava &ma [/1] embaixo das moita / com medo &d com medo / das pessoas / f& achando que alguém queria &fa me fazer mal / &he / eu pus na cabeça também que &m [/1] minha família tinha toda morrido / &ma [/1] mataram minha família toda / aí depois / no final / &na nũ era aquilo que tava na minha cabeça //
+*MAJ: entendi //
+*MAR: aí [/1] aí / no último dia / eu tive [/2] eu &an [/2] eu tava sem coberta / só de / a roupa do corpo //
+*MAR: no último dia / eu tive um sonho que eu tava / dormindo / debaixo de uma coberta //
+*MAJ: hum hum //
+*MAR: aí quando eu acordava / falava assim / No' nũ to não / tô aqui no mato ainda //
+*MAR: aí aí daqui a [/2] naquele dia / no amanhaceu o dia / depois que o dia clareou &s [/1] eu consegui sair <daquele mato> //
+*MAJ: <conseguiu sair> //
+*MAR: <é> //
+*MAJ: <entendi> //
+*MAJ: hum hum //
+*MAJ: entendi //
+*MAJ: <hum hum> //
+*MAR: aí eu / caminhei uma distância longa / aí o moço / tava vendendo melancia / me deu comida / me deu água / aí eu bebi muita água / comi a comida que e' me &de [/4] que ele &de [/1] comeu e deixou pra mim um pouco / <eu> comi / aí [/1] aí eu [/1] &p depois mais tarde eu continuei andando / aí cheguei num lugar / na Água [/2] cheguei no Água Branca //
+*MAJ: <hum hum> //
+*MAR: <bairro Água Branca> //
+*MAR: aí eu / &che &e [/3] eu cheguei lá / tava de noite / aí &u [/1] uma senhora tava num / portão da casa dela / pedi elas coberta //
+*MAR: aí elas juntaram lá / me deram comida / me deram água / me deu coberta / me deu / chinelo / que eu tava descalço //
+*MAR: aí o [/1] um parente delas lá tinha um [/2] um [/1] tem um irmão que é policial //
+*MAR: aí eles ligaram pra ele &m [/1] aí &m [/1] entrou em &con [/3] es entraram em contato / e descobriram que eu tava / perdida mesmo //
+*MAJ: <hum hum> //
+*MAR: <que tá> [/1] pessoal &t [/2] pessoal tava me caçando //
+*MAJ: entendi //
+*MAJ: hum hum //
+*MAR: aí &f ligou [/2] ligou p' meus parente / aí todo mundo foi lá me buscar //
+*MAJ: hum hum //
+*MAJ: <entendi> //
+*MAR: <aí> partir daí / que eu [/1] eu comecei a &fa [/1] &he / fazer tratamento aqui //
+*MAR: aí eu [/1] eu tomo a olanzapina //
+*MAJ: olanzapina //
+*MAJ: a senhora toma quantos comprimidos da olanzapina //
+*MAJ: <quatro de cinco> //
+*MAR: &he &he &he / &he / é quatro comprimidos / <cinco cinco miligrama> //
+*MAJ: <correto> //
+*MAR: <é> //
+*MAJ: o que +
+*MAJ: a senhora já tinha usado algum remédio antes / ou não //
+*MAR: ah //
+*MAR: ah / &ma mais remédio pa gripe / <assim> //
+*MAJ: <yyy> / mas remédio <yyyy> +
+*MAR: <ah pa [/1] pa labirintite> também <&o eu> +
+*MAJ: <xxx labirintite> //
+*MAR: <é> //
+*MAJ: <e antes> desse episódio de dois-mil-e-dezoito / isso já tinha acontecido alguma coisa semelhante em outro momento assim da vida da senhora //
+*MAR: conteceu / em janeiro / &fu [/1] &he &he / essa época aí foi / maio //
+*MAJ: hum hum //
+*MAR: abril ou maio //
+*MAR: <maio> //
+*MAJ: <então em maio> de dois-mil-e-dezoito foi quando a siora ficou esse tempo aí fora de casa //
+*MAR: <é> //
+*MAJ: em <janeiro> de dois-mil-e-dezoito tinha acontecido alguma outra coisa //
+*MAJ: <hum hum> //
+*MAJ: hum hum //
+*MAR: é que eu / fiquei com medo das pessoas / &co &a me <levo até no> [/6] meu esposo me levou no psiquiatra / aí depois melhorou //
+*MAR: aí depois &t +
+*MAJ: <hum hum> //
+*MAR: aí quando foi lá pa maio / &he / acho que vinte-e-quatro de maio / aí eu &come [/3] aí eu / <passei> mal //
+*MAJ: hum hum //
+*MAJ: entendi //
+*MAR: é //
+*MAJ: correto //
+*MAJ: e / a siora precisou &fic [/1] ficar em algum hospital / por conta disso //
+*MAR: não //
+*MAR: eu &n [/2] eu fiquei um dia uma noite no hospital //
+*MAJ: uma noite //
+*MAJ: em qual hospital //
+*MAR: &he / tem Sarah Kubitschek / mas n' é Sarah Kubitschek não é a outra //
+*MAJ: no Júlia //
+*MAJ: <Júlia Kubitschek> //
+*MAR: <nũ sei se é &Jú> [/5] <nũ sei> se é Júlia Kubitschek / <nũ sei> //
+*MAJ: <o Sarah> fica lá em Brasília / né //
+*MAR: ah é / <&n> +
+*MAJ: <é> //
+*MAJ: tem o Júlia Kubitschek que fica aqui em Belo Horizonte //
+*MAJ: hum hum //
+*MAR: é eu [/1] eu esqueci o nome do hospital / que me levou / mas eu fiquei lá tomando medicamento / uma noite <lá> //
+*MAJ: ficou só uma noite só //
+*MAR: <é> //
+*MAJ: <entendi> //
+*MAJ: hum hum //
+*MAJ: correto //
+*MAJ: tá joia //
+*MAJ: e isso nũ +
+*MAJ: depois nunca mais aconteceu episódios semelhantes da senhora sair / sem rumo //
+*MAR: <não> //
+*MAJ: <nada> de ficar perdida / nada não //
+*MAR: nada <não> //
+*MAJ: <nessa> época a senhora chegava a escutar alguma coisa / escutar <vozes> //
+*MAJ: <é> //
+*MAR: <escutava> muitas <voz> / falava que &ti [/2] que tinha matado minha família / que a culpa era minha / e [/1] e / eu / só queria ir pa longe //
+*MAJ: <entendi> //
+*MAJ: <hum hum> //
+*MAR: <pra> longe / <&peg> [/1] <pegar> uma carona e ir pra longe //
+*MAJ: hum hum //
+*MAR: até conversei c' caminhoneiro perto do [/1] do CEASA //
+*MAJ: <hum hum> //
+*MAR: <na &d> [/1] estacionado [/1] estacionado perto da CEASA //
+*MAR: perguntando pra onde que ia / que eu tava querendo ir pa longe //
+*MAJ: <hum hum> //
+*MAR: <mas acabou> que eu nũ fui não //
+*MAJ: entendi //
+*MAJ: correto //
+*MAR: hoje não / hoje +
+*MAJ: &he / e hoje não escuta mais nada / <xxx tá tudo> tranquilo //
+*MAR: hoje <tá> //
+*MAJ: <já> tem quanto tempo / dona yyy / que tá tranquilo assim //
+*MAR: ah / dezoito dezenove / vinte / vinte-e-um vinte-e-dois vinte-e-três vinte-e-quatro //
+*MAR: ah &de [/1] deve ter uns [/1] uns quatro anos / por aí //
+*MAR: <deve ser> //
+*MAJ: <hum hum> //
+*MAJ: tinha +
+*MAR: <ham ham> //
+*MAJ: já teve a sensação assim que tinha alguém te perseguindo / <nessa época> //
+*MAJ: hoje não //
+*MAR: hoje não //
+*MAJ: hum hum //
+*MAJ: correto //
+*MAJ: e no trabalho / como é que é hoje / é tudo tranquilo / pra senhora //
+*MAR: tá [/1] tá tranquilo //
+*MAJ: <é> //
+*MAJ: <hum hum> //
+*MAR: <vez &c> [/2] <vez> enquando tem eu tenho algumas / dificuldade mas / &tev [/1] tem vencido / <graças a Deus> //
+*MAJ: correto //
+*MAJ: o última vez que a senhora esteve aqui foi em fevereiro né //
+*MAJ: finalzim de fevereiro //
+*MAR: acho que foi //
+*MAJ: <foi> //
+*MAR: <foi> / março / abril / maio junho //
+*MAJ: e de lá pra cá como a senhora esteve //
+*MAJ: passando bem / teve alguma novidade / alguma mudança //
+*MAR: não / acho que mesma coisa //
+*MAJ: mesma coisa //
+*MAR: acho que é //
+*MAJ: &tu [/1] tudo tranquilo +
+*MAJ: eu vi na última consulta que tava tudo bem também / né //
+*MAR: ham ham //
+*MAJ: tá joia //
+*MAJ: tem alguma queixa / alguma coisa que a senhora gostaria de falar //
+*MAR: tô lembrada não //
+*MAJ: não //
+*MAR: não //
+*MAJ: só um instante tá //
+*MAJ: pra dormir / como que tá //
+*MAR: &he / eu eu &d [/3] eu tenho problema que eu durmo muito //
+*MAR: eu tomo remédio / cinco horas da tarde / lá pa oito horas / nove horas já tá [/2] o sono tá vindo //
+*MAJ: hum hum //
+*MAJ: correto //
+*MAR: aí eu [/1] eu &tut &sa [/2] levanto cinco e &me [/3] cinco e [/2] cinco e dez / pa [/1] pa mim / arrumar pa mim trabalhar //
+*MAJ: entendi //
+*MAJ: hum hum //
+*MAJ: &he / e a questão de apetite / como que tá //
+*MAR: eu tô / comendo bem //
+*MAJ: comendo bem //
+*MAR: tô //
+*MAJ: hum hum //
+*MAJ: o intestino / funcionando bem também //
+*MAR: tá //
+*MAJ: faz assim / com as mão / deixa eu só ver //
+*MAJ: hum hum //
+*MAJ: tá joia //
+*MAJ: oquei / tá certim //
+*MAJ: abre a boca //
+*MAJ: coloca a língua p' fora fazendo / ah //
+*MAR: ah //
+*MAJ: tranquilo //
+*MAJ: tá sentindo alguma dificuldade pra andar / pra se movimentar / ou não //
+*MAR: não //
+*MAJ: <não> //
+*MAR: tô <sentindo não> //
+*MAJ: eu vi aqui também / que a siora tava fazendo uma faculdade / em Gestão Pública online //
+*MAR: eu tô fazendo //
+*MAJ: continua fazendo //
+*MAR: tô //
+*MAJ: que ótimo //
+*MAR: fazendo //
+*MAJ: como que tá sendo //
+*MAJ: tá sendo bom //
+*MAR: tá / tá sendo bom hhh //
+*MAR: <desafiador né> //
+*MAJ: <senhora &trab [/2] senhora trabalha> [/2] a senhora trabalha de manhã e à tarde / ou só de manhã //
+*MAR: a parte da manhã //
+*MAJ: ham ham //
+*MAR: &me [/1] é meio período //
+*MAJ: hum hum //
+*MAJ: colocar aqui / cê já tá em qual período &n &n [/2] da faculdade //
+*MAR: é &d é &di [/4] é dois anos //
+*MAJ: dois anos //
+*MAR: <é> //
+*MAJ: <senhora> começou quando //
+*MAR: eu comecei em outubro //
+*MAJ: outubro //
+*MAR: <é> //
+*MAJ: < tá no> segundo período mais ou menos / indo pro segundo //
+*MAR: né / deve ser <hhh> //
+*MAJ: <é hhh> //
+*MAR: acho que é //
+*MAJ: tá joia //
+*MAR: ham ham //
+*MAJ: tá / dando conta de acompanhar bem / o curso lá //
+*MAR: é / assim / &he / &t tem que estudar muito sabe //
+*MAJ: hum hum //
+*MAJ: <sei> //
+*MAJ: <entendi> //
+*MAR: <estudar muito> mesmo porque [/1] porque o meu estudo e' foi pouco / nũ [/1] eu [/1] eu fiz Telecurso / <pa mim> / &fa [/2] pa mim tirar o ensino médio //
+*MAJ: entendi //
+*MAR: mas tem que estudar bastante //
+*MAJ: e exames de sangue a senhora tem algum / pra mostrar hoje //
+*MAJ: ou <não> //
+*MAR: <não> / ele pediu / &e eu trouxe //
+*MAR: aí tô tomando as vitamina //
+*MAJ: <hum / quais> //
+*MAR: <bê doze> //
+*MAJ: bê doze +
+*MAJ: a siora tá tomando como / a vitamina bê doze //
+*MAJ: é por semana //
+*MAR: é [/1] &he / é / uma vez [/1] vez por semana né //
+*MAJ: uma vez por semana //
+*MAR: é //
+*MAJ: bê doze //
+*MAJ: e é injeção ou comprimido //
+*MAR: é comprimido //
+*MAJ: uma vez por semana //
+*MAJ: o que mais de medi [/2] de remédio sem ser a olanzapina e a vitamina bê doze que a senhora toma //
+*MAR: rossuvastatina //
+*MAJ: <rosuvastatina> //
+*MAR: <&rossuvasta> +
+*MAR: é //
+*MAJ: de quarenta / né //
+*MAJ: ou de vinte //
+*MAR: ah não / pior que eu não sei //
+*MAJ: de vinte //
+*MAR: vinte né //
+*MAR: ham ham //
+*MAJ: mais algum outro remédio //
+*MAR: e +
+*MAR: ah não //
+*MAR: labiritinte eu nũ tomo mais não //
+*MAJ: labirintite nũ toma mais não / né //
+*MAR: não //
+*MAR: vez em quando tem a [/5] &d [/2] &he sempre &te [/1] deito a minha cabeça roda um pouquim mas / aquelas crise forte tem tido não //
+*MAJ: hum hum //
+*MAJ: tá joia //
+*MAJ: mais algum outro //
+*MAR: é / o que eu tô lembrando é esse aí //
+*MAR: a vitamina dê //
+*MAJ: tem a vitamina dê também / a senhora toma //
+*MAR: ham ham //
+*MAJ: a de sete-mil / né //
+*MAJ: a bê doze a senhora nũ toma não //
+*MAR: tô [/1] tô tomando //
+*MAJ: a ah / senhora toma a vitaminha bê doze e a dê //
+*MAJ: as duas //
+*MAR: é //
+*MAJ: tendi //
+*MAJ: a vitamina bê doze a senhora lembra de quantas miligramas que é //
+*MAR: ah nũ tô lembrada não //
+*MAJ: tá joia //
+*MAJ: deixa eu só ver seu último exame aqui / tá //
+*MAR: hum hum //
+*MAJ: sintomas / depressivos / ansiosos / isso cê nũ tá tendo não né //
+*MAR: não //
+*MAJ: e a rosuvastatina tá tomando todos os dias //
+*MAR: é um à noite //
+*MAJ: um à noite né //
+*MAR: é //
+*MAJ: tá joia //
+*MAJ: oquei //
+*MAR: <ham ham> //
+*MAJ: <o seu> último exame foi de novembro / é isso mesmo //
+*MAJ: <é> //
+*MAR: &he / pior que eu nũ tô lembrada da <data não> //
+*MAJ: de novembro //
+*MAR: <novembro né> //
+*MAJ: <tá precisando> fazer outro já / tá //
+*MAR: ah tá //
+*MAJ: correto //
+*MAJ: e hoje / siora queria falar mais alguma coisa / antes de eu discutir o caso com o doutor Breno / dona yyy //
+*MAJ: ou não //
+*MAR: eu acho que é [/3] &s acho que é isso mesmo //
+*MAJ: por isso a senhora veio <sozinha> / <né> //
+*MAR: <nũ tô lembrada> //
+*MAR: eu vim sozinha / que <meu esposo> / ele sempre ele vem comigo //
+*MAJ: hum hum //
+*MAR: mas ele / por causa do serviço dele / nũ teve +
+*MAJ: entendi //
+*MAJ: tem problema não //
+*MAJ: <certim> +
+*MAR: <é> //
+*MAJ: eu vou ali discutir o caso / <tá> //
+*MAR: <ham ham> //
+*MAJ: <já volto> pra gente <conversar> //
+*MAR: <a [/1] a receita> / cê &va cê vai me dar a receita //
+*MAJ: vou dar a receita / siora pode aguardar aqui //
+*MAJ: <xxx> //
+*MAR: <a> / <aí aí> +
+*MAJ: <eu vou discutir> o caso com o doutor Breno e volto p' gente conversar //
+*MAR: tá //
+*MAJ: aí <xxx> +
+*MAJ: <perfeito> //
+*MAR: <aí a re> [/2] <a receita> não é pa por data não porque / <pa pegar lá> //
+*MAJ: tá joia //
+*MAR: <ham ham> //
+*MAJ: a gente faz sem data / <tá> //
+*MAR: <tá> //
+*MAJ: siora <pega> é na secretaria //
+*MAR: pego //
+*MAJ: tá //
+*MAJ: hum hum //
+*MAR: ham ham //
+*MAR: meu <esposo pega> //
+*MAJ: <licença tá> //
+*MAR: tá bom //
+*MAJ: dona yyy //
+*MAJ: tudo bem //
+*MAJ: voltei qui com mais gente dessa vez / esse aqui é o Daniel / tá / que faz parte aqui do &gru [/2] do grupo de pesquisa também //
+*MAJ: dona yyy / d/epois eu vou fazer as receitas aqui / né / pra &s [/1] senhora //
+*MAJ: &he / a gente queria conversar / &he / porque / o Daniel / também né / da linha de pesquisa aqui / tem que fazer um exame / senhora já fez um eletrocardiograma //
+*MAJ: quele que coloca aqui assim no <coração / assim> //
+*MAR: <já [/1] eu já> fiz tem muito tempo //
+*MAJ: já <fez tem muito> tempo //
+*MAR: <muito> [/1] <muitos ano> //
+*MAJ: nũ é esse <não> //
+*MAJ: esse / é muito semelhante //
+*MAJ: parece +
+*MAJ: esse ele chama eletroencefalograma //
+*MAJ: certo //
+*MAJ: coloca em vez de ser aqui / no peito / coloca aqui / né / só um gelzinho / com os eletrodos / é o Daniel quem faz / certo //
+*MAJ: faz parte aqui do [/1] da questão da pesquisa que ocorre nesse ambulatório / do doutor Breno também / aí a gente queria verificar a disponibilidade / de fazer hoje //
+*DAN: <trinta e cinco> +
+*MAJ: demora em torno de uns [/1] uns <trinta-e-cinco minutos> / mais ou menos //
+*DAN: a senhora <yyyy> +
+*MAJ: <isso> //
+*MAJ: aí / o +
+*MAJ: só / fica faltando um teste de memória / né / que o Francisco / meu colega vai vir aqui aplicar também na senhora / esse aí vai demorar cinco minutinhos e depois dele / fazer / &e [/1] no caso esse exame //
+*MAJ: certim //
+*MAJ: combinado //
+*MAR: combinado //
+*MAJ: tá joia então //
+*MAJ: <certim> //
+*DAN: <muito> <obrigado> //
+*MAJ: <aí eu> te aviso <tá> //
+*DAN: <oquei> //
+*MAJ: na verdade eu peço pro Francisco te avisar também //
+*MAJ: aqui //
+*DAN: ótimo //
+*MAJ: e aí a hora que acabar o yyyy +
+*MAJ: certim //
+*MAJ: a gente vai manter a medicação / certo //
+*MAR: <tá> //
+*MAJ: <a gente> queria marcar pra senhora / dona yyy / pro dia / dois / de julho / pode ser //
+*MAR: dois de julho //
+*MAJ: dois do sete //
+*MAJ: isso //
+*MAR: tá //
+*MAR: carteirinha tá aqui //
+*MAJ: aí vai ser duashoras  yyyy //
+*MAJ: duas horas da tarde / tá //
+*MAR: hum hum //
+*MAJ: yyyy //
+*MAJ: dois do sete de dois-mil-e-vinte-e-quatro / às quatorze horas //
+*MAJ: certo //
+*MAJ: aqui //
+*MAR: tá //
+*MAJ: já tá agendado tá / nũ precisa passar / lá não //
+*MAJ: e yyyy solicitar só os exames pra gente ver essa questão do colesterol da senhora / tá bom //
+*MAR: tá //
+*MAJ: bom que a gente dosa a vitamina também / tá //
+*MAR: hum hum //
+*MAJ: só pegar as receitas //
+*MAJ: certo //
+*MAR: tá //
+*MAJ: só um instante //
+*MAR: tá <bom> //
+*MAJ: <vou falar> com o pessoal vim parar de gravar que a gente já acabou a consulta //
+*MAR: tá //
+*MAJ: dona yyy / a senhora quer que coloca a rosuvastatina / aqui também //
+*MAR: ah / precisa de receita //
+*MAJ: da rosuvastatina //
+*MAR: é //
+*MAJ: siora precisa da receita dela //
+*MAR: eu nũ sei se &p [/2] se <precisa> +
+*MAJ: <esse aí> já não precisa não / <certo> //
+*MAR: <ah> / tão tá bom //
+*MAJ: <tá> //
+*MAR: <precisa não> //
+*MAJ: aqui //
+*MAJ: aqui tá o pedido de exame / tá //
+*MAR: <tá> //
+*MAR: <tá> //
+*MAJ: que a senhora <vai> ter que trazer na próxima consulta / esse exames aqui pra gente / <exames> de rotina //
+*MAJ: e aqui é a receita da olanzapina / tá //
+*MAR: tá //
+*MAJ: oquei //
+*MAJ: quatro comprimidos à noite né / que a senhora já tava usando //
+*MAR: é //
+*MAJ: e aí &f [/1] &he / &s dá pra um mês cada uma / pra senhora pegar lá / as duas sem datas //
+*MAR: <tá> //
+*MAJ: <perfeito> //
+*MAR: <tá bom> //
+*MAJ: <joia> //
+*MAR: tá //
+*MAJ: vou falar com o Francisco aqui pra você //
+*MAR: tá //
+*MAJ: peço que a senhora aguarde //
+*DES: oi / tudo bem //
+*MAR: tudo bom //
+*DES: licença //
+*DES: meu nome é Lucas / tá //
+*DES: eu vou +
+*DES: cê [/1] cê lembra de ter <feito um> +
+*MAJ: <só> uma questão / que é pra gente tirar / a / <câmera> //
+*DES: <a> câmera / né //

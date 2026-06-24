@@ -1,0 +1,248 @@
+{
+  "papers": [
+    {
+      "title": "Hörersignale in Arzt-Patienten-Gesprächen: Unterschiede zwischen gedolmetschten deutsch-portugiesischen und einsprachigen deutschen und portugiesischen Gesprächen",
+      "abstract": "Backchannels are an important linguistic mean for ensuring the hearer’s understanding and for directing the conversation. In this way, they have also an influence on the diction of the conversation. This is why they have attracted a lot of attention within the research about Portuguese discourse markers in general (Marcuschi, L. A. (1986). Análise de conversacão (Princípios, Bd. 82). Ática.; Urbano, H. (2006). Marcadores discursivos basicamente interativos. In C. C. A. S. Jubran & I. G. V. Koch (Hrsg.), Gramática do português culto falado no Brasil, vol. 1: Construção do texto falado (S. 497–527). Editora da Unicamp. for Brazilian Portuguese and Brauer-Figueiredo 1999 for European Portuguese), as well as research on the co-construction of the spoken text (Koch, I. G. V. (2006). Especificidade do texto falado. In C. C. A. S. Jubran & I. G. V. Koch (Hrsg.), Gramática do português culto falado no Brasil, vol. 1: Construção do texto falado (S. 39–46). Editora da Unicamp). In doctor-patient communication, backchannels have an important functionality for the accommodation of knowledge. This article aims at analysing what happens with regard to backchannels in interpreter-mediated doctor-patient conversations and what the differences are between monolingual and interpreter-mediated conversations. The analysis is based on monolingual German and Portuguese doctor-patient conversations as well as on interpreter-mediated German-Portuguese conversations documented in the Corpus „Interpreting in Hospitals“ (Bührig, K., Kliche, O., Pawlack, B., & Meyer, B. (2012). The corpus „Interpreting in hospitals“ – Possible applications for research and communication trainings. In T. Schmidt & K. Wörner (Hrsg.), Multilingual corpora and multilingual corpus analysis (Hamburg studies in multilingualism, Bd. 14, S. 305–315). Benjamins.).",
+      "authors": [
+        {
+          "name": "Thomas Johnen",
+          "affiliation": "Westsächsische Hochschule Zwickau"
+        }
+      ],
+      "source": {
+        "title": "LIBDOC - Westsächsische Hochschule Zwickau",
+        "isbn": "978-3-662-68735-2",
+        "issn": null,
+        "publisher": "J.B. Metzler, Berlin, Heidelberg",
+        "source_type": "repository"
+      },
+      "publication_date": "2024-01-01",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-662-68735-2_16",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-662-68735-2_16.pdf",
+      "doi": "10.1007/978-3-662-68735-2_16",
+      "citations": 0,
+      "keywords": [
+        "Biology",
+        "Chen",
+        "Gedolmetschte Arzt-Patienten-Gespräche",
+        "Hörersignale",
+        "Linguistics",
+        "Paleontology",
+        "Philosophy",
+        "Wissensakkommodation"
+      ],
+      "comments": null,
+      "page_count": 15,
+      "page_range": "283–297",
+      "found_in": [
+        "openalex"
+      ],
+      "paper_type": "inbook",
+      "fields_of_study": [
+        "Arts and Humanities",
+        "Social Sciences"
+      ],
+      "subjects": [
+        "Language and Linguistics",
+        "Linguistic research and analysis"
+      ],
+      "language": "de",
+      "is_open_access": false,
+      "is_retracted": false,
+      "funders": [],
+      "references": [
+        "10.1075/hsm.14.21buh",
+        "10.1075/hsm.3.04buh",
+        "10.1075/hsm.5.22joh",
+        "10.1075/hsm.9.09mey",
+        "10.1515/9783110169188.2.18.1213",
+        "10.1515/9783110169188.2.22.1576",
+        "10.1515/9783110685664-007",
+        "10.1515/9783110863574.503",
+        "10.1515/9783111372914",
+        "10.24824/978858042040.1",
+        "10.25592/uhhfdm.8308",
+        "10.5117/TVT2009.2.MODI355"
+      ],
+      "cited_by": []
+    },
+    {
+      "title": "Comparisons between face-to-face and telephone speech: research possibilities",
+      "abstract": "This pilot study aims at comparing two speech corpora in order to capture possible features of two different speech formats. The first corpus is a face-to-face speech corpus, the C-ORAL-BRASIL I (Raso and Mello, 2012) and the second corpus is a phone call corpus, part of the C-ORAL-BRASIL II (Raso; Mello; Ferrari, to appear), both in spontaneous informal Brazilian Portuguese. Through a pipeline prepared in Python, we compared: illocutionary complexity, informational density, overlapping, and disfluencies. Our results indicated that the speakers in the telephone calls had to use more vocal elements to convey a message while in face-to-face interactions the message would be divided in speech and gestures. The findings will be of interest to those who deal with speech corpora in different formats and are interested in selecting certain features for the comparison. Furthermore, this study has methodological ramifications because the elements examined here are very likely to occur in spontaneous speech in any format, and need to be compared carefully.",
+      "authors": [
+        {
+          "name": "João Victor Pessoa Rocha"
+        },
+        {
+          "name": "Átila Vital"
+        }
+      ],
+      "source": {
+        "title": "Journal of Speech Sciences",
+        "isbn": null,
+        "issn": "2236-9740",
+        "publisher": "Universidade Estadual de Campinas",
+        "source_type": "journal"
+      },
+      "publication_date": "2025-10-13",
+      "url": "https://econtents.sbu.unicamp.br/inpec/index.php/joss/article/view/20389",
+      "pdf_url": "https://econtents.sbu.unicamp.br/inpec/index.php/joss/article/download/20389/14889",
+      "doi": "10.20396/joss.v14i00.20389",
+      "citations": 1,
+      "keywords": [
+        "Illocution",
+        "Speech corpora",
+        "Telephone call"
+      ],
+      "comments": null,
+      "page_count": null,
+      "page_range": "e025003",
+      "found_in": [
+        "semantic_scholar"
+      ],
+      "paper_type": "article",
+      "fields_of_study": [],
+      "subjects": [
+        "Computer Science",
+        "Linguistics"
+      ],
+      "language": null,
+      "is_open_access": false,
+      "is_retracted": null,
+      "funders": [],
+      "references": [
+        "10.1007/11939993_73",
+        "10.1007/s10579-023-09675-y",
+        "10.1016/j.jml.2014.10.003",
+        "10.1017/9781108887809",
+        "10.1017/CBO9780511814358",
+        "10.1017/S0047404500001019",
+        "10.1075/ais.11",
+        "10.1075/scl.15",
+        "10.1075/scl.61.01mel",
+        "10.1075/scl.61.15mon",
+        "10.1177/0023830911428871",
+        "10.15366/chimera2022.9.010",
+        "10.1590/S1984-63982011000200009",
+        "10.21437/Interspeech.2006-335",
+        "10.21437/Interspeech.2021-130",
+        "10.26530/OAPEN_343705",
+        "10.28998/2317-9945.2013v2n52p293-316",
+        "10.3389/fict.2015.00004",
+        "10.5007/1984-8412.2017v14n4p2745"
+      ],
+      "cited_by": []
+    },
+    {
+      "title": "Recognizing Lexical Units in Portuguese",
+      "abstract": "Recognizing the lexical units in the speech chain in Portuguese is one of the most difficult problems in processing, as the listener must delimiting them, facing distortions, pauses and hesitations, in addition to sociolinguistic and contextual phonetic variants. Such phenomena indicate that, in a pre-lexical phase of recognition, the receiver restores the information received, with inferences through the crossing of contextual data extracted from utterances (intake) with those coming from their permanent memories (topdown processes). The boundaries between lexical units are opaque, particularly when they are clitic due to external closed juncture or sandhi. Spontaneous speech frequently presents distortions and ruptures, instead of signaling ways to the listener, for dividing the speech chain into larger, gradually smaller phrases, until reaching lexical units. There are even ruptures at the inframorphemic and even intrasyllabic level. The difficulty in delimiting is very great when the listener is faced with new words. The methodology is bibliographic and I  examined the texts of researchers who have addressed the topic. I conclude that the absence of isomorphy between the phonological and the morphosyntactic words challenges a scientific explanation of how the listener solves this contradiction, since, for the lexical item, she/he must pair the intake with the respective phonological lexical item in her/his mental dictionary.",
+      "authors": [
+        {
+          "name": "L. Scliar-Cabral"
+        }
+      ],
+      "source": {
+        "title": "English Linguistics Research",
+        "isbn": null,
+        "issn": "1927-6028",
+        "publisher": "Sciedu Press",
+        "source_type": "journal"
+      },
+      "publication_date": "2025-07-01",
+      "url": "https://www.sciedupress.com/journal/index.php/elr/article/view/28072",
+      "pdf_url": "https://www.sciedupress.com/journal/index.php/elr/article/viewFile/28072/17138",
+      "doi": "10.5430/elr.v14n2p1",
+      "citations": 0,
+      "keywords": [
+        "Computer science",
+        "Linguistics",
+        "Natural language processing",
+        "Philosophy",
+        "Portuguese"
+      ],
+      "comments": null,
+      "page_count": null,
+      "page_range": "1–1",
+      "found_in": [
+        "openalex",
+        "semantic_scholar"
+      ],
+      "paper_type": "article",
+      "fields_of_study": [
+        "Computer Science",
+        "Physical Sciences"
+      ],
+      "subjects": [
+        "Artificial Intelligence",
+        "Linguistics",
+        "Natural Language Processing Techniques"
+      ],
+      "language": "en",
+      "is_open_access": true,
+      "is_retracted": false,
+      "funders": [],
+      "references": [],
+      "cited_by": []
+    },
+    {
+      "title": "A relação entre unidades gestuais e as retrações da fala: um estudo baseado em corpus",
+      "abstract": "The research presented in this project aims to analyze the relation between gesture and speech disfluencies. To this end, the Brazilian Gesture Corpus - BGEST (BARROS, 2021) was used.  BGEST is a multimodal corpus that compiles informal Portuguese-Brazilian spontaneous speech, specifically, monologues. Disfluencies are defined as flaws in speech production that jeopardize the flow of spontaneous speech, and may be revealed through hesitations, errors, and repairs (LICKLEY, 2015). This research, therefore, has focused on retractings, a form of disfluency defined by the Language into Act Theory (CRESTI, 2000; MONEGLIA, RASO, 2014) characterized by false starts, in which the speaker repairs, within the utterance itself, what was said (RASO, 2012). The study of gestures alongside speech disfluencies comes from the notion that speech and gesture arise from one integrated system (MCNEILL, 1992; KENDON, 2004), thus, when there are speech disfluencies, there should also be gesture disfluencies. The results here point to a narrow relation between gesture and retractings, as there were found both instances of ongoing gestures alongside the disfluencies, as well as the holding of the gestures. However, when it comes to the latter, the gesture temporal barriers tend to mirror the retracting barriers, and a considerable part of the results show that gesture and speech stop and resume at the same time, as found in previous research (AKHAVAN et al., 2016). Therefore, more studies into the relation between speech and gesture production are necessary.",
+      "authors": [
+        {
+          "name": "Beatriz Gléria Atiê"
+        }
+      ],
+      "source": {
+        "title": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+        "isbn": null,
+        "issn": null,
+        "publisher": null,
+        "source_type": "repository"
+      },
+      "publication_date": "2025-01-22",
+      "url": "https://repositorio.ufmg.br/items/0fe1fd74-a0cd-451c-bcc7-01dfc8482da7",
+      "pdf_url": "https://repositorio.ufmg.br/bitstreams/ed2385a6-5d22-4529-afe0-c57fb54dd164/download",
+      "doi": null,
+      "citations": 0,
+      "keywords": [
+        "Atos de fala (Linguística)",
+        "Communication",
+        "Computer science",
+        "Gestos",
+        "Gesture",
+        "Gesture recognition",
+        "Linguistics",
+        "Linguística de corpus",
+        "Point (geometry)",
+        "Relation (database)",
+        "Speech corpus",
+        "Speech production",
+        "Speech recognition",
+        "Speech synthesis",
+        "Spoken language",
+        "Utterance"
+      ],
+      "comments": null,
+      "page_count": null,
+      "page_range": null,
+      "found_in": [
+        "openalex"
+      ],
+      "paper_type": "phdthesis",
+      "fields_of_study": [
+        "Psychology",
+        "Social Sciences"
+      ],
+      "subjects": [
+        "Developmental and Educational Psychology",
+        "Hearing Impairment and Communication"
+      ],
+      "language": "pt",
+      "is_open_access": true,
+      "is_retracted": false,
+      "funders": [],
+      "references": [],
+      "cited_by": []
+    }
+  ]
+}

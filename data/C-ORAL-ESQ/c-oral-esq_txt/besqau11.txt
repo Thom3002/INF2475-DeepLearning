@@ -1,0 +1,843 @@
+*ELI: yyy / então me conta / já começou a me contar &nu [/1] novidade boa / que fez caminhada / né //
+*VAL: é //
+*ELI: como que foi isso //
+*VAL: minhas perna tá doendo demais / de tanto fazer caminhada //
+*ELI: é //
+*VAL: é //
+*ELI: foi quantas vezes //
+*VAL: ah / dia sim e dia não //
+*ELI: joia //
+*ELI: e tá continuando fazer //
+*VAL: tô //
+*ELI: bom demais //
+*ELI: e tá sentindo melhor / yyy //
+*VAL: estou sentindo melhor //
+*ELI: tá //
+*ELI: me conta aqui //
+*ELI: a última vez que o sior veio / sior falou que ia lá na Festa do Divino //
+*VAL: fui nada <hhh> //
+*ELI: <ah> / eu vou puxar a orelha do senhor //
+*VAL: ela puxa //
+*ELI: <por que> que o sior nũ foi //
+*VAL: nũ animei //
+*VAL: e agora têm mais festa //
+*ELI: lá [/1] lá na / onde o sior mora / tem festa demais / né //
+*VAL: <&Di [/1] Festa> do Divino / Festa de Siora do Rosário //
+*VAL: a Festa de Siora do Rosário é [/1] ni mil pessoa come de graça //
+*ELI: é //
+*VAL: dia primeiro [/2] em segundo domingo de dezembro //
+*ELI: e sior vai //
+*VAL: ué / eu tinha que ir / ué //
+*VAL: eu toco nela //
+*ELI: sior toca //
+*ELI: então essa nũ vai ter jeito do sior nũ ir não //
+*VAL: que es vai me buscar lá em casa //
+*ELI: <é> //
+*VAL: <&si> +
+*VAL: domingo / é o Cego foi lá em casa me ver //
+*ELI: ham //
+*VAL: o homem tem sessenta ano //
+*VAL: foi me visitar //
+*ELI: e ele tá animado / fazendo as coisa / e o sior só em casa //
+*VAL: o Cego / e' &fa e' &fa e' e' &s trabalha / faz os trem //
+*ELI: ham ham //
+*VAL: cego mesmo //
+*ELI: sim //
+*VAL: foi lá / almoçou / comida dela lá //
+*ELI: hum //
+*ELI: e aí //
+*VAL: fez festa de aniversário / o povo ficou me abraçando //
+*ELI: quando / que foi aniversário do senhor //
+*VAL: dela aí o' //
+*ELI: ah dela / né //
+*VAL: fui / encheu de gente lá //
+*ELI: foi lá na sua casa //
+*VAL: foi lá em casa //
+*ELI: é //
+*ELI: e o que que o sior achou / do pessoal lá na sua casa //
+*VAL: achei bem / né //
+*ELI: <é> //
+*VAL: <a celebração> //
+*ELI: o sior nũ gosta é de sair / né <yyy> //
+*VAL: <é> //
+*ELI: mas / se for gente na casa do sior / sior nũ importa não //
+*VAL: importo não //
+*ELI: tá //
+*ELI: me conta aqui //
+*ELI: &he / por que +
+*ELI: a gente fez um combinado / na última consulta / e por que que o sior nũ &s [/1] foi na Festa do Divino //
+*VAL: ah / nũ tinha ninguém / na hora //
+*VAL: porque se alguém me levar //
+*ELI: hum //
+*VAL: pessoal / que vai lá em casa me buscar / se precisar //
+*ELI: e mas mesmo o pessoal indo te buscar / o sior nũ vai //
+*VAL: vou não //
+*ELI: por quê //
+*VAL: ah / tô / desanimado / né //
+*ELI: anda meio desanimado //
+*VAL: é //
+*ELI: é //
+*VAL: fazer caminhada / aí o povo vira / para na rua p' conversar comigo ué //
+*ELI: ué / mas é porque o sior é muito querido lá / ué //
+*VAL: é //
+*ELI: isso é bom / n' é não //
+*VAL: n' é nada //
+*ELI: não //
+*VAL: n' é nada //
+*ELI: nũ gosta não / dos outro &para +
+*VAL: o pessoal vai lá em casa jogar truco / xxx / esses dia tem ido não //
+*ELI: ham //
+*VAL: es vai lá me ver //
+*ELI: e quando eles vão lá e jogar truco / sior gosta //
+*VAL: gosto //
+*ELI: tá //
+*ELI: conta aqui //
+*ELI: e / aquela questão dos dente / do senhor //
+*VAL: tô esperando a vaga //
+*ELI: é //
+*VAL: &a eu vou [/1] vou no médico / pra ir yyyy //
+*ELI: mas tá / animado / pa consertar //
+*VAL: tô //
+*ELI: tá //
+*ELI: da última vez que o sior veio aqui pra hoje / como que o sior tá //
+*VAL: melhorei bem / fiz caminhada //
+*ELI: ham ham //
+*ELI: a caminhada ajudou / né / yyy //
+*VAL: judou //
+*VAL: mais um neto / só a caminhada e mais um neto //
+*ELI: mais um neto //
+*VAL: é //
+*ELI: sior tem quantos netos //
+*VAL: três //
+*ELI: é //
+*ELI: esse que [/2] esse / netinho é novo //
+*VAL: ele tem / seis ano //
+*ELI: seis anos //
+*ELI: <tá> //
+*VAL: <eu faço> caminhada com ele //
+*ELI: ele caminha com sior //
+*VAL: caminha //
+*ELI: é um companhia então //
+*VAL: é //
+*ELI: tá fazendo caminhada mesmo / yyy //
+*ELI: é //
+*ELI: ué //
+*MAP: <hum hum> //
+*ELI: tão / isso foi uma &po [/2] uma coisa boa / da / última consulta pra cá //
+*VAL: <eu fiz caminhada> //
+*MAP: <antes / era> o mais velho / que insistia //
+*ELI: ham ham //
+*MAP: agora é o mais novo //
+*ELI: ham ham //
+*MAP: vai os dois lá //
+*VAL: anda nós dois junto hhh //
+*ELI: tem alguém que põe o sior pa frente / né / yyy //
+*ELI: tá //
+*ELI: &he / me fala aqui //
+*ELI: o sior tem tomado o remédio direitim / <né> //
+*VAL: <tem> / o remédio / tomo direitim //
+*ELI: da última vez que o sior veio aqui / eu tinha comentado com sior que eu ia pedir uns exames de sangue //
+*ELI: né //
+*ELI: eu vou pedir / p' sior trazer pra mim da próxima vez //
+*ELI: sior tem &fai [/1] feito / acompanhamento no médico / lá [/1] lá na sua cidade //
+*VAL: tenho //
+*MAP: ele &f +
+*MAP: o ano passado / né //
+*ELI: <hum hum> //
+*ELI: <hum hum> //
+*MAP: ele fez / exame de / sangue pra / <glicose> / <colesterol> / &he / tudo / né //
+*ELI: e <deu alguma alteração> //
+*MAP: <yyyy> //
+*MAP: aí / ele tá com / &g [/1] gli [/2] tava né / com a glicose um pouco baixa +
+*ELI: baixa //
+*MAP: isso //
+*ELI: ham //
+*ELI: <isso> //
+*MAP: aí ele tá tomando remédio / é &sin [/1] sinvastatina / po colesterol / <e> / aquele outro / que eu nũ lembro o nome dele / pra / glicose //
+*ELI: ham ham //
+*ELI: metformina //
+*MAP: metformina / <isso> //
+*ELI: <tá> //
+*ELI: <tá> //
+*MAP: aí eu já pedi / pra eles / fazerem / um novo exame de colesterol / pra saber se ele precisa continuar / com / tratamento / <né >//
+*MAP: porque o [/1] a glicose / deu boa //
+*ELI: joia //
+*ELI: hum <hum> //
+*MAP: eles foram lá / há pouco tempo / há uns / meses atrás / fez o exame / <a glicose> tava boa //
+*ELI: tá //
+*MAP: aí eu falei / então quero agora um exame / pro / <colesterol> //
+*ELI: <hum hum> //
+*ELI: <hum hum> //
+*MAP: <yyyy> / tá tomando remédio / sem / necessidade / <né> //
+*ELI: <sim> //
+*ELI: quanto menos remédio toma / <melhor né> //
+*MAP: <melhor / né> //
+*MAP: e ele tem uma dieta / né / &he / eu faço / uma dieta pra ele //
+*ELI: hum //
+*MAP: mesmo antes / dele / &cont [/1] começar com o tratamento / da / glicose / eu já fazia uma dieta //
+*ELI: <hum hum> //
+*MAP: <foi aprovada> //
+*ELI: hum hum //
+*MAP: e ele / continua / com essa / dieta //
+*ELI: ô yyy / a sua esposa é joia demais / né //
+*VAL: ela é //
+*ELI: até / papel de nutricionista p' ocê ela faz //
+*ELI: que que cê quer <mais> //
+*ELI: hum <hum> //
+*ELI: <ham ham> //
+*MAP: <é> porque eu trabalhei em escola / municipal / <e eu fazia> muitos cursos de capacitação / <né> / então eu aprendi / muita coisa //
+*ELI: joia //
+*ELI: <bom demais> //
+*ELI: <sim> //
+*MAP: <aí / eu> [/1] eu passo / pra minha família / pra <xxx> / né //
+*MAP: <isso / xxx> //
+*ELI: o que aprendeu lá / <né yyy / aplicar> //
+*ELI: tá //
+*ELI: mas de toda forma / eu vou pedir exame do senhor //
+*ELI: tá / yyy //
+*ELI: o exame pode ser feito aqui / mas como pro senhor eu imagino que fica longe / pode fazer lá / e quando voltar / traz pr' eu ver //
+*ELI: tá bom //
+*VAL: tá bom //
+*ELI: é só de rotina mesmo / pra ver se tá tudo certim //
+*ELI: tá bom //
+*ELI: porque como tem muito tempo que sior fez / e eu não vi esses exames / eu quero ver //
+*ELI: uma revisão pra ver como que tá a saúdo do senhor //
+*ELI: tá bom //
+*ELI: tá //
+*ELI: o que mais que tem feito / além da caminhada / yyy //
+*VAL: tem ficado mais em pé //
+*ELI: em pé //
+*VAL: é //
+*ELI: é //
+*ELI: fazendo o quê //
+*VAL: ah / vendo televisão //
+*VAL: hum //
+*ELI: vendo televisão em pé //
+*MAP: pra ele é em pé / né / vez sentado hhh //
+*VAL: sentado //
+*ELI: ham ham //
+*VAL: <yyyy> +
+*ELI: <que senão / fica ruim> demais / nũ <fica não> //
+*VAL: <eu ficava> deitado / só deitado //
+*ELI: ham ham //
+*ELI: isso //
+*ELI: tão tá //
+*ELI: ô yyy //
+*ELI: sior sabe que / pego no pé do senhor mesmo / né //
+*ELI: &he / pego no pe do senhor / fico implicando que o senhor nũ sai de casa / tem um tanto de festa na cidade do senhor / senhor nũ sai / mas quando o senhor faz uma coisa que eu acho que é bacana / é válido a gente também dar os parabéns //
+*ELI: tão essa questão de ter feito [/1] começado a fazer caminhada / foi uma coisa muito boa //
+*ELI: boa em todos os aspectos / tá //
+*ELI: até essa questão de colesterol / essa questão da saúde física em si / é bom a caminhada //
+*ELI: tá bom //
+*ELI: &he / o remédio que o sior usa / é um remédio que / por si só / tem a tendência em fazer o colesterol no sangue subir // 
+*ELI: tá //
+*ELI: por isso que é muito importante fazer atividade física //
+*ELI: pra nũ deixar isso acontecer //
+*ELI: tá bom //
+*ELI: tá //
+*ELI: &he / as [/1] a próxima festa que o senhor me falou lá é do Rosário //
+*VAL: não / &s [/1] Nossa Siora da Assunção //
+*ELI: é / da Assunção //
+*VAL: <é> //
+*ELI: <e> o sior tá planejando ir //
+*VAL: meu povo vai hhh //
+*VAL: eu nũ sei não hhh //
+*ELI: &he / mas eu tô perguntando é do senhor //
+*ELI: sior vai / ué //
+*VAL: se eu tiver animado eu vou / ela vai aí o' //
+*VAL: ela trabalha / mas vai ser nove dia de missa //
+*ELI: mas ela / eu tenho certeza que ea vai //
+*ELI: que ela é animada //
+*ELI: quero saber se o sior vai com ela
+*ELI: quero saber se o sior vai com ela //
+*VAL: ah / sei lá //
+*VAL: ham //
+*ELI: não //
+*MAP: hhh sei lá //
+*MAP: tem que ir / ué //
+*ELI: o senhor nũ falou que o sior toca / nessa &mu [/2] nessa festa aí //
+*VAL: toca +
+*VAL: meu povo que [/3] meu povo vai tocar //
+*ELI: quem que é seu povo //
+*VAL: ah / oficial da Guarda de Marujo //
+*ELI: é //
+*ELI: o que que sior toca //
+*VAL: pandeiro //
+*ELI: é mesmo //
+*ELI: e por que que o sior nũ vai / sô //
+*ELI: então //
+*VAL: pandeiro tá lá em casa //
+*ELI: mais um motivo p' o sior ir / n' é não //
+*VAL: sei lá //
+*ELI: hum //
+*ELI: tá //
+*ELI: tem dormido bem / yyy //
+*VAL: dormindo bem //
+*ELI: é //
+*ELI: tem alimentado bem //
+*VAL: tem //
+*ELI: tá //
+*ELI: atividade fora de casa / o sior faz / além da caminhada //
+*VAL: não //
+*ELI: <não> //
+*VAL: <só> caminhada //
+*ELI: tá //
+*ELI: então a rotina do senhor é ficar em casa / e sai às vez pra fazer a caminhada //
+*VAL: é //
+*ELI: tá //
+*ELI: yyy / o' / xá eu perguntar umas coisa po senhor que é / dessa pesquisa que a gente tá fazendo / tá //
+*ELI: &he / lá na casa do senhor / mora só o senhor e a yyy //
+*VAL: na minha casa é //
+*ELI: tá //
+*MAP: tem os neto / e os filho da nora pertim //
+*MAP: &tod [/1] &pa [/1] a casa é comunitária //
+*ELI: ham ham //
+*ELI: mas / dentro da casa mesmo <&s [/1] &s> +
+*MAP: <é nós> dormimos / só nós dois //
+*ELI: tá //
+*ELI: então +
+*VAL: os neto inda almoça lá em casa //
+*ELI: pois é //
+*VAL: o filho meu casado //
+*VAL: a nora //
+*ELI: joia //
+*ELI: a renda da família / seu [/1] seu yyy / é / o &s [/2] a sua aposentadoria //
+*VAL: é //
+*ELI: tem a sua também / <yyy> //
+*MAP: <não> / ainda nũ aposentei não //
+*ELI: tá //
+*ELI: &he / o sior sabe me falar / yyy / em qual / ano / que a sua mãe nasceu //
+*VAL: ah agora nũ sei não viu //
+*ELI: não //
+*VAL: <não> //
+*ELI: <tem> problema não //
+*ELI: e a sua mãe estudou / chegou a estudar //
+*VAL: não //
+*ELI: não //
+*ELI: nada nada //
+*VAL: nada nada //
+*ELI: tá //
+*ELI: e o ano que seu pai nasceu / cê sabe me falar //
+*VAL: também não //
+*VAL: meu pai morreu / eu [/1] eu tinha três ano de idade //
+*ELI: tinha três //
+*ELI: sior sabe se ele chegou a estudar //
+*VAL: também não //
+*MAP: mas seu pai estudou sim //
+*VAL: tudou //
+*MAP: seu pai era [/1] era letrado //
+*ELI: era letrado //
+*MAP: hum hum //
+*ELI: tá //
+*ELI: me conta aqui //
+*ELI: alguém na família do senhor / yyy / tem problema com / uso de álcool //
+*VAL: tem não xxx //
+*MAP: bebida //
+*VAL: é //
+*MAP: lógico que tem / ué //
+*VAL: quem é //
+*MAP: uhn //
+*MAP: quem na sua família não bebeu / xxx //
+*MAP: pelo amor de Deus //
+*ELI: mas assim / de beber e de dar problema //
+*MAP: não / problema não / mas / beber bebe //
+*ELI: mas / é um beber excessivo / ou é beber assim / só quando sai / bebe lá e pronto //
+*MAP: direto //
+*ELI: é //
+*ELI: quem //
+*ELI: a mãe tinha <problema com álcool> //
+*VAL: <meu irmão / que bebia muito / morreu> //
+*MAP: irmão / <a mãe também> / a mãe também bebeu muito //
+*MAP: cê parou //
+*ELI: e o pai / tem notícia //
+*MAP: o pai também bebia //
+*ELI: tá //
+*ELI: e uso de droga / tem alguém na família / yyy //
+*VAL: tem não //
+*MAP: dos antigos não //
+*ELI: tá //
+*ELI: mais alguém na família teve problema com esquizofrenia //
+*MAP: teve //
+*ELI: quem //
+*MAP: oh //
+*MAP: primos / irmãos //
+*ELI: hum hum //
+*ELI: quantos irmãos //
+*MAP: ah / deve +
+*MAP: ah / &ch [/1] ah meu Deus / são tantos //
+*MAP: que é [/1] é duas famílias //
+*MAP: o pai casou duas vezes //
+*MAP: eu conheço todos eles / <né> //
+*ELI: <hum hum> //
+*MAP: mas / se eu te &fa [/4] &n [/1] deixa eu pensar //
+*MAP: yyy / yyy / yyy //
+*MAP: yyyy / vamo falar uns oito //
+*ELI: isso tudo //
+*MAP: hum hum //
+*ELI: é muita gente / <yyy> //
+*MAP: <é> é / é genética / primo nem se fala //
+*MAP: primos nem se fala //
+*ELI: é <muita gente> //
+*ELI: <isso> //
+*MAP: <gente que suicidou> / porque perdeu <num jogo de> <baralho> //
+*ELI: <a próxima> pergunta é essa //
+*MAP: <isso>
+*ELI: <&pa> [/1] familiar que suicidou //
+*MAP: é //
+*MAP: é / suicidou por perder num jogo de <baralho> //
+*ELI: <é mesmo> //
+*MAP: é //
+*ELI: quantos que &suic +
+*MAP: <não> //
+*ELI: a mãe e o pai nũ foi <assim não> //
+*MAP: não //
+*MAP: não //
+*MAP: mas parente <teve> //
+*ELI: <mas> irmão / teve algum / que suicidou //
+*MAP: não //
+*ELI: não //
+*ELI: tá //
+*MAP: mas teve que fazer tratamento //
+*ELI: ham ham //
+*ELI: &he / yyy / &a [/1] talvez a senhora sabe me falar isso melhor //
+*ELI: &he / um pouco antes / de acontecer a doença do yyy / notou que algum tempo antes / alguns meses ele ficou diferente //
+*MAP: e como //
+*ELI: como que ele ficava diferente //
+*MAP: o' / quando a gente namorava / mesmo que a gente namorava / né / namorava e dormia junto //
+*ELI: ham ham //
+*MAP: aí / a noite inteira ele mexia //
+*ELI: hum hum //
+*MAP: eu levava ele ao médico / falava com ele / conta pro médico / disso //
+*MAP: aí ele falava assim / eu vou contar po médico que eu durmo com cê //
+*MAP: nũ posso //
+*ELI: ham ham //
+*ELI: então era / ficar inquieto //
+*ELI: tá //
+*ELI: mas / notou assim que ele <ficou> +
+*MAP: <aí> / aí a gente casou / eu nũ sabia das / consequências <né> //
+*ELI: <ham ham> //
+*MAP: também se eu soubesse eu talvez tivesse casado do mesmo jeito //
+*ELI: hum hum //
+*MAP: amor é amor e <ninguém xxx> //
+*ELI: <paixonada> / viu yyy //
+*MAP: então / &he / ele não nasceu com aque' problema //
+*ELI: como <assim> //
+*ELI: <ham ham> //
+*MAP: <eu> passei a não contar pra ele nada de problema dentro de casa <que ele> nũ sabia resolver //
+*ELI: entendi //
+*ELI: tá //
+*MAP: então / eu passei a resolver tudo / sozinha //
+*ELI: <ham ham> //
+*MAP: <até> que chegou num ponto / que eu fui vendo que / aquilo tava ficando meio / complicado //
+*ELI: <hum hum> //
+*ELI: hum hum //
+*MAP: <e foi> crescendo / crescendo crescendo / passou um tempo bom / tranquilo / aí ele envolve na política / e aí / o caldo entornou //
+*ELI: sim //
+*ELI: tá //
+*ELI: foi com quantos anos / yyy / siora lembra //
+*MAP: que ele / surtou //
+*ELI: sim //
+*MAP: e' tá com sessenta-e-dois / ele surtou com / cinquenta e poucos anos //
+*ELI: é //
+*MAP: hum hum //
+*ELI: então / foi &u [/1] há uns dez anos //
+*MAP: isso //
+*ELI: tá //
+*ELI: e ele começou a fazer tratamento logo que aconteceu isso //
+*MAP: nũ aceitava não //
+*MAP: eu insistia / mas e' nũ aceitava //
+*MAP: até que eu levei / consegui levar num psicólogo //
+*ELI: ham ham //
+*MAP: o psicólogo mandou p' psiquiatra //
+*MAP: aí ele nũ aceitava o medicamentos //
+*ELI: hum hum //
+*MAP: &dis [/1] ele falava que os medicamento tava atrapalhando ele //
+*ELI: hum hum //
+*MAP: aí / chegou num ponto que / eu já não suportava mais a situação / tava complicado demais //
+*MAP: um dia / sem mais nem menos / e' surtou mas surtou mesmo //
+*ELI: ham ham //
+*MAP: aí eu chamei / socorro né //
+*ELI: ham ham //
+*ELI: hum hum //
+*MAP: trouxe médico / ambulância / SAMU / polícia / bombeiros //
+*ELI: sim //
+*MAP: o que me socorreu foi o bombeiros //
+*ELI: sim //
+*ELI: entendi //
+*MAP: aí trouxe ele pra cá / que e' já fazia tratamento aqui / <né> //
+*ELI: <ham ham> //
+*ELI: <entendi> //
+*MAP: aí trouxe ele pra cá / <aí> / ele ficou internado / mais de mês +
+*ELI: ele internou quantas vez / yyy //
+*MAP: oi //
+*ELI: ele internou uma vez só //
+*MAP: foi só uma vez //
+*ELI: tá //
+*ELI: não chegou fazer ecetê / né //
+*MAP: chegou fazer //
+*ELI: &e [/1] &e [/1] a [/1] aquele choque / que passa <na cabeça> //
+*ELI: <tá> //
+*MAP: <não sei> / eu nũ [/1] nũ <acompanhei> / porque es não quiseram que eu acompanhasse //
+*ELI: <ham ham> //
+*MAP: es pediram pr' eu não acompanhar //
+*ELI: tá //
+*ELI: essa [/1] nessa idade que ele internou / foi mais ou menos há [/1] uns cinquenta e poucos / <anos> //
+*MAP: <foi> / foi //
+*VAL: cinquenta-e-oito //
+*ELI: cinquenta-e-oito <anos> //
+*VAL: <é> //
+*ELI: sior tinha //
+*MAP: não //
+*MAP: menos //
+*VAL: <menos> //
+*MAP: <cê tá> com sessenta-e-dois //
+*MAP: foi menos //
+*MAP: foi &s [/1] antes dos [/1] dos cinquenta-e-oito //
+*MAP: cinquenta-e +
+*MAP: tem uns sete ano que e' faz tratamento //
+*ELI: tá //
+*ELI: tá //
+*ELI: já pensou em morrer / ô yyy //
+*VAL: já //
+*ELI: mas <já tentou> //
+*MAP: <todo dia / toda> hora //
+*ELI: mas já tentou //
+*ELI: não //
+*VAL: não //
+*ELI: o sior sabe me falar se / quando tava / &su [/1] a mãe do senhor tava grávida do senhor / teve algum problema / quando tava grávida //
+*VAL: isso eu nũ sei falar não //
+*ELI: é / &mu [/1] é detalhe demais / né //
+*VAL: é //
+*ELI: tá //
+*MAP: com certeza //
+*MAP: porque / a mãe dele / casou / aos dezessete anos com o pai dele com sessenta //
+*ELI: ah é //
+*MAP: e nem foi um casamento / foi um [/1] um acordo //
+*ELI: como assim //
+*MAP: de pai / dela / com ele / por dívida //
+*ELI: ah tá //
+*ELI: como que foi essa história / yyy //
+*ELI: sior sabe contar //
+*VAL: sei //
+*ELI: como que foi //
+*VAL: o [/1] o meu irmão que ia [/2] queria casar com minha mãe //
+*VAL: aí meu pai foi lá foi pedir em casamento po meu filho / pedi pa mim mesmo //
+*VAL: o véi tava com sessenta ano / viúvo //
+*ELI: então / quem queria casar ca sua mãe / era o filho do seu <pai> //
+*VAL: <é> / mais velho / é //
+*ELI: e aí / na hora que ele foi lá fazer a negociação / ele pediu foi pra e' mesmo //
+*VAL: pra ele mesmo hhh //
+*ELI: <tendi> //
+*MAP: <pra perdoar> uma dívida que o / tinha <com ele> //
+*ELI: <ham ham> //
+*ELI: entendi //
+*ELI: tá //
+*ELI: &he / quando o senhor era criança / yyy / era tudo tranquilo na escola //
+*VAL: era / quando eu estudei era tranquilo //
+*ELI: sior tinha amigo / na escola //
+*VAL: tinha //
+*ELI: era / tudo normal //
+*VAL: tudo normal //
+*VAL: <não>
+*ELI: alguém te batia / na escola / <yyy> //
+*ELI: não / né //
+*ELI: era tudo tranquilo //
+*ELI: tá //
+*ELI: &he / então isso aqui / pressão alta o sior nũ tem não / tem //
+*VAL: tem não //
+*ELI: já teve alguma convulsão //
+*VAL: que que é isso //
+*ELI: ficar / &aque [/1] aqueles ataque que cai no chão e começa a debater //
+*VAL: já //
+*ELI: já teve //
+*ELI: &quan [/1] &c [/1] com <quantos &an> +
+*MAP: ele teve uma vez / porque / alguém que eu não sabia / tava dando Gardenal pra ele //
+*ELI: ham / tá //
+*ELI: hum hum //
+*ELI: uhn //
+*MAP: aí / ele foi numa inauguração de um / restaurante de um amigo dele / e bebeu / <cerveja> //
+*ELI: <hum> //
+*MAP: <e quando> chegou em casa / não foi ele que chegou não //
+*MAP: foi um bicho //
+*ELI: <já tava alterando> //
+*MAP: <e' deitou no chão> / e rodava / igual um +
+*ELI: que isso / hein yyy //
+*ELI: <hum hum> //
+*MAP: mas e' não sabia / nem <eu> / então //
+*MAP: podia ter até denunciado essa pessoa //
+*ELI: é / estranho isso / <né> //
+*ELI: <sim> //
+*MAP: <porque não> se dá Gardenal / sem receita <pra ninguém> / né //
+*ELI: tá //
+*ELI: yyy / o senhor acha que o sior tem algum problema de saúde //
+*VAL: uai / tenho / porque / a dor no corpo é demais hhh //
+*ELI: é //
+*ELI: e o que que é que o sior tem //
+*VAL: dor nas perna //
+*ELI: mas e na questão da mente / sior acha que o sior tem algum problema //
+*VAL: minha cabeça dói muito //
+*ELI: é //
+*VAL: chega faz assim o' //
+*ELI: e o que fez o sior &su [/1] surtar //
+*ELI: o que que é //
+*VAL: ah / muito borrecimento / né //
+*ELI: é //
+*ELI: tá //
+*ELI: sior acha que o sior precisa de remédio pra esse aborrecimento aí //
+*VAL: eu acho que não //
+*ELI: não //
+*ELI: esse remédio que o sior toma nũ te ajuda não //
+*VAL: ajuda //
+*ELI: ham //
+*ELI: sior toma os remédios todos sozim //
+*VAL: não / ela que dá uai <hhh> //
+*ELI: <ela que> dá //
+*ELI: sior conseguiria tomar sozinho //
+*VAL: acho que não hhh //
+*ELI: não //
+*ELI: tá //
+*ELI: tá acabando / viu yyy //
+*ELI: yyy / se eu perguntar po senhor assim / esses &dita [/1] ditados populares / que o pessoal fala //
+*ELI: por exemplo / se e' fala [/3] se eu falo assim / a grama do vizinho é sempre mais verde //
+*ELI: que que eu tô querendo falar com isso //
+*VAL: que a minha grama é seca //
+*ELI: se eu falasse / ih / yyy / a grama do vizinho é sempre mais verde //
+*ELI: sior sabe que isso significa //
+*VAL: <não> //
+*ELI: <que que quer> dizer //
+*ELI: e se eu falo assim / mais vale um pássaro na mão do que dois voando //
+*VAL: é //
+*ELI: que que é isso / que eu &t [/1] tô querendo falar //
+*VAL: não sei //
+*ELI: não //
+*VAL: não //
+*ELI: &he / e se falo assim / olha por fora / bela viola / olha por dentro / pão bolorento //
+*VAL: não sei //
+*ELI: não //
+*VAL: não //
+*ELI: é difícil / interpretar essas coisa / né <yyy> //
+*VAL: <é> //
+*ELI: tá certo / tem problema não //
+*ELI: sior sabe o dia que é hoje //
+*VAL: hoje é vinte-e-três //
+*ELI: de qual mês //
+*VAL: de julho //
+*ELI: de qual ano //
+*VAL: dois-mil-e-dezenove //
+*ELI: joia //
+*ELI: e o dia da semana //
+*VAL: terça-feira //
+*ELI: joia //
+*ELI: beleza //
+*ELI: &he / yyy / o sior sente / às vezes / que fica um pouco deprimido //
+*ELI: isso acontece com qual frequência //
+*VAL: ah / sempre //
+*ELI: sempre //
+*ELI: e é &u [/3] ficar / deprimido assim / é leve / ou é muito forte <assim> //
+*VAL: <muito> forte //
+*ELI: muito forte //
+*ELI: fica / com desesperança / pras coisa do futuro //
+*ELI: é //
+*ELI: às vezes o sior se sente culpado / por algumas coisa que já aconteceram //
+*ELI: é //
+*ELI: com relação a que //
+*VAL: ah / minha vida né //
+*ELI: é //
+*ELI: quando o sior se sente deprimido / tem uma hora do dia que esse sintoma de depressão é pior //
+*ELI: que horas //
+*VAL: ah / de dia //
+*ELI: de dia //
+*VAL: de noite também / &de deito na cama e durmo //
+*ELI: tá //
+*ELI: tem pensado em morrer //
+*VAL: ah / tenho //
+*ELI: é //
+*ELI: isso acontece com qual frequência //
+*VAL: ah / sempre //
+*ELI: <&sem> +
+*VAL: <porque eu> xxx / eu &traba [/1] era homem trabalhador //
+*VAL: hoje eu nũ guento fazer mais nada //
+*ELI: hum //
+*VAL: tão / a gente fica abatido né //
+*ELI: hum hum //
+*VAL: trabalhava em dois serviço //
+*ELI: mas o senhor tem tentado / fazer alguma coisa / <yyy> //
+*VAL: <ah> / tenho mas nũ +
+*ELI: que que o sior tem tentado fazer //
+*VAL: ir ajudar ela na horta / mas hhh / cabou mesmo a vontade de ir lá hhh //
+*ELI: é //
+*ELI: então é a [/2] a questão que nũ tá fazendo é por causa da vontade / que nũ tá vindo //
+*VAL: é  //
+*ELI: é isso //
+*VAL: é isso //
+*ELI: tá //
+*ELI: o sior costuma acordar mais cedo do que o sior queria //
+*VAL: ah / &du eu durmo bem //
+*VAL: acordo é pas nove hora //
+*ELI: xxx joia //
+*ELI: tão tá uma hora boa de acordar / né //
+*ELI: tá certo //
+*VAL: deito na cama e durmo //
+*ELI: nũ fica também rolando dum lado pro outro na cama / né yyy //
+*VAL: tem dia que eu nũ durmo não //
+*ELI: tá //
+*VAL: tem dia que eu passo a noite inteira sem dormir //
+*ELI: me conta aqui / o sior bebe //
+*VAL: não //
+*ELI: nada nada //
+*ELI: fuma //
+*MAP: beber e' bebe / água e café hhh //
+*ELI: ah / aí tá bom //
+*ELI: fumar cigarro o sior fuma //
+*VAL: não //
+*ELI: nada nada //
+*ELI: joia //
+*ELI: tão / a gente já terminou isso aqui //
+*ELI: agora a última coisa / tá //
+*ELI: sior tá otimista / quanto à vida //
+*VAL: tô nada //
+*VAL: <hum> //
+*ELI: <não> //
+*VAL: não //
+*ELI: cê discorda muito disso / de tar otimista //
+*ELI: tá //
+*ELI: cê tem planos a curto e longo prazo / yyy //
+*VAL: ah tinha né //
+*VAL: hum //
+*ELI: mas e agora //
+*VAL: gora tem mais não //
+*ELI: nenhum plano //
+*ELI: e seu netim que cê falou //
+*ELI: cê nũ tem plano nenhum //
+*ELI: não //
+*ELI: se sente sozinho / yyy //
+*VAL: ah / tem hora que eu sinto //
+*ELI: é //
+*ELI: consegue ver possibilidade / alguma [/1] algum jeito de resolver / as suas dificuldades //
+*VAL: eu queria sarar né //
+*ELI: hum hum //
+*ELI: tem medo do futuro //
+*VAL: tem //
+*ELI: tem //
+*ELI: tem uma fé / que te conforta //
+*VAL: tem fé muito em Deus ué //
+*ELI: hum hum //
+*ELI: sior consegue lembrar de tempo que o sior era feliz / momentos que o sior / tinha prazer //
+*VAL: lembro //
+*ELI: é //
+*ELI: o sior se sente forte //
+*VAL: forte / eu nũ sinto nada //
+*ELI: não //
+*ELI: é capaz de receber e dar afeto / e amor //
+*VAL: ah / sim //
+*VAL: tem é muito amor ao meus neto //
+*VAL: <&e> +
+*ELI: <eu nũ> duvido disso não //
+*VAL: isso que es faz de mim / gato e cachorro hhh //
+*ELI: hhh faz de gato e sapato / né //
+*VAL: e pra mim tudo tá bem //
+*ELI: sior sente que sua vida tem utilidade / tem valor //
+*VAL: com meus neto tem //
+*ELI: joia //
+*ELI: beleza //
+*ELI: ô yyy / vão então começar a investir nesses neto do senhor / uai //
+*ELI: porque olha só / um trem que eu tô tentando fazer o sior fazer / desde que o sior [/4] desde que eu conheci o senhor / é fazer o sior sair de casa //
+*ELI: e nũ consigo de jeito nenhum //
+*ELI: aí vem seu neto e consegue //
+*ELI: eu vou começar a ligar pros neto do senhor / pa levar o senhor pa festa //
+*MAP: mas es tenta / chama //	
+*ELI: é //
+*VAL: es chama / mas eu nũ vou não //
+*VAL: tem um festão / agora esses dia //
+*ELI: é //
+*VAL: vai ser nove dia de missa / e nove dia de barraquinha / aí eu vou trabalhar na <barraquinha> //
+*ELI: <pois> <é> //
+*MAP: <vai> ter //
+*MAP: vai ter //
+*MAP: se ocê quiser ir cê pode ir / ué //
+*MAP: não custa nada / é pertinho //
+*MAP: cinco minuto <tamo ali / xxx> //
+*ELI: <dá uma passadinha lá> / yyy //
+*ELI: precisa ficar tudo <não> //
+*MAP: <custa> nada //
+*ELI: vai lá / fica um pouquim só e volta //
+*ELI: passa na barraquinha e <volta> //
+*MAP: <reúne seus> amigo / senta / e bate um papo //
+*ELI: é <ué> //
+*VAL: <ah / o povo fica> me abraçando / me deixa eu [/3] me deixa eu quieto não //
+*ELI: ué / mas isso é bom / né não / yyy //
+*VAL: o que eu acho mais engraçado é um cego que vai lá em casa me visitar //
+*ELI: pois é //
+*VAL: <eu tô só> +
+*ELI: <mostra> que o pessoal gosta d' ôce / <uai> //
+*VAL: <e ele> trabalha já / se almoçou +
+*VAL: o povo que quer [/1] quer comida diferente / pede ea pa fazer //
+*ELI: <ham> //
+*VAL: <pede ea> / mas ea quem faz a comida / es leva a cerveja / leva / refrigerante //
+*ELI: pois é //
+*ELI: <tá> +
+*VAL: <ela> bebe //
+*ELI: e o <senhor bebe &nã> +
+*MAP: <por que ela bebe> / eu bebo <hhh> //
+*ELI: <hhh> tá certo / yyy //
+*MAP: <ai ai>//
+*ELI: eu vou fazer <sua receita> então //
+*ELI: tá bom //
+*VAL: tá bom //
+*ELI: e eu vou &cob +
+*ELI: eu sei que eu sou chata / <mas> +
+*MAP: <xá eu vê> se eu ti &co [/4] se eu consigo mostrar meus netos aqui //
+*ELI: ah / eu quero ver //
+*ELI: quando o sior voltar / eu vou querer saber do senhor / se o sior &f [/1] pelo menos passou lá na barraquinha //
+*ELI: tá bom //
+*VAL: eu já fui nessa festa já //
+*ELI: mas tem que ir de novo / ué //
+*ELI: todo ano tem //
+*VAL: todo ano tem / aí vem a festa lá do Rosário / hoje é a festa do banana //
+*ELI: pois é //
+*VAL: e ela também <xxx> //
+*VAL: <mas &ta> +
+*ELI: <a festa> da banana / então yyy deve / <ser a rainha> da <festa> //
+*MAP: <ah uh> //
+*MAP: vou [/1] vou até participar do concurso de receita //
+*ELI: aí / o' //
+*ELI: que [/1] que receita que cê vai levar / yyy //
+*MAP: eu / com cê eu posso falar / porque nũ [/1] nũ tem / problema //
+*MAP: <mas> +
+*ELI: <lá é> segredo / <né> //
+*MAP: <é segredo> de chefe //
+*MAP: eu vou levar / mostrar p' cê //
+*MAP: esse [/1] esse sofá //
+*ELI: tá uma canoa //
+*MAP: a nossa neta aí //
+*ELI: gente / que lindeza //
+*ELI: bonitinha demais //
+*ELI: como que chama //
+*MAP: yyy //
+*ELI: gente / muito linda / yyy //
+*VAL: tem os neto também / tá aí não //
+*MAP: tá / eu vou procurar //
+*ELI: e que receita que cê vai levar / yyy //
+*ELI: hum //
+*MAP: eu vou levar uma receita / de pastel / não / coxinha de angu recheada de umbigo de banana  / e / palmito da bananeira com frango //
+*ELI: cê provou isso //
+*MAP: ah / já //
+*VAL: <já> //
+*MAP: e' <já provou> //
+*ELI: já / yyy //
+*ELI: e aprovou //
+*VAL: ea cozinha bem //
+*ELI: cozinha / ué / nũ duvido disso não //
+*VAL: ah / &c [/1] sempre ea trabalha //
+*VAL: ea trabalha / tem sessenta-e-nove anos / e trabalha igual hhh //
+*MAP: xá eu ver se eu acho <aqui> //
+*ELI: <comeu> canela de cachorro / né <yyy> //
+*VAL: <é / eu fico té admirado> //
+*ELI: <nũ para em casa> //
+*ELI: yyy / a receita então dele é melhor fazer sem data / né //
+*MAP: uhn //
+*ELI: é melhor fazer uma receita sem data pra ele / né //
+*MAP: é //
+*MAP: é //
+*ELI: tá //
+*ELI: eu vou só pedir p' pessoal desligar o aparelhim aqui +

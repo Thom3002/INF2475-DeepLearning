@@ -1,0 +1,353 @@
+*GLJ: oi / yyy //
+*APM: <ei> //
+*GLJ: <tá> [/1] tá lembrada do meu nome / ou <não> //
+*APM: <tô> //
+*APM: é o nome do meu irmão / aí eu nũ esqueço não //
+*GLJ: é / qual que <é> //
+*APM: <Gabriel> / <né> //
+*GLJ: <isso mesmo> //
+*GLJ: e aí / yyy / como é que cê tá //
+*APM: eu tô bem / graças a Deus / doutor //
+*APM: <é> //
+*GLJ: ô yyy / que bom / a última consulta cê foi &a [/1] consultada por outro médico / né / foi <atendida> por outro médico //
+*APM: &f [/1] foi umas duas ou três //
+*GLJ: foi alterada / alguma medicação / ou tá / se mantendo &a [/1] o mesmo tratamento / tá sendo <mantido> // 
+*APM: <é o> mesmo / é //
+*GLJ: <hum> //
+*GLJ: hum hum //
+*APM: <quinze miligramas> de olanzapina / e cem de sertralina //
+*GLJ: <ai / que bom> //
+*APM: aí eu fiz os exame de sangue / que <ficou faltando> prolactina //
+*GLJ: ficou faltando //
+*APM: é //
+*APM: aí o médico / que me atendeu / ele [/1] ele pediu //
+*APM: aí eu trouxe / o resultado do exame da prolactina //
+*GLJ: ah / que ótimo //
+*GLJ: hum hum //
+*APM: isso é considerado alto / doutor //
+*GLJ: sim //
+*GLJ: tá um pouco alto //
+*GLJ: &he +
+*APM: é porque / da [/1] quando você me atendeu / você fez o pedido pra mim //
+*APM: aí eu tô guardando / esse exame aí pelo SUS // 
+*GLJ: ah / mas diminuiu bastante //
+*GLJ: isso é um bom sinal //
+*GLJ: é isso que eu tava tentando / olhar aqui / tentando encontrar aqui no prontuário / a última dosagem / que foi / feita +
+*APM: acho que é em janeiro //
+*GLJ: coloquei a data errada aqui na [/1] no último pedido //
+*GLJ: foi feito em / vinte-e-seis de dezembro de / vinte-e-dois //
+*GLJ: &he / mas de toda forma tava cento-e-quatorze / e agora está / quarenta-e-dois // 
+*GLJ: que <bom> //
+*APM: <quando> eu fiz esse [/1] esse primeiro exame aí / eu nũ fiquei / de [/1] de repouso lá não // 
+*APM: eu fui chegando e fazendo o exame de sangue //
+*APM: aí dessa última vez / &he / eles pediram pr' eu ficar meia hora descansando lá na cadeira // 
+*APM: eu nunca tinha feito exame de prolactina não / você foi a primeira vez que me pediu //
+*GLJ: hum //
+*GLJ: foi muito chato // 
+*APM: <não> //
+*GLJ: <não> / foi só colher o sangue mesmo //
+*APM: é //
+*GLJ: mas é um bom sinal //
+*GLJ: ela reduziu //
+*GLJ: como é que tá o seu sono // 
+*APM: tá bem //
+*APM: eu tô dormindo bem //
+*GLJ: e aqueles nervosismos / ou tristeza / continuam //
+*APM: não //
+*GLJ: ah / então / cê tá cuma melhora do humor / também //
+*APM: é //
+*GLJ: sua rotina tá como //
+*APM: só faço as coisas de casa / faço compra no supermercado //
+*GLJ: hum hum //
+*GLJ: relação tá boa c' seus pais //
+*APM: tá //
+*GLJ: e quanto ao intestino //
+*GLJ: tá funcionando normalmente //
+*APM: ham ham //
+*GLJ: cê evacua todos os dias //
+*APM: é //
+*GLJ: é //
+*GLJ: sem precisar de esforço //
+*APM: ham ham //
+*GLJ: não fica / uma hora no banheiro não //
+*GLJ: é rápido //
+*APM: é rápido //
+*GLJ: é //
+*GLJ: nũ sai só / aqueles que a gente chama de cíbalos / que são as bolinhas assim / tipo cocô de cabrito / <assim não> //  
+*APM: <não> //
+*GLJ: cocô normal / né //
+*APM: ham ham //
+*GLJ: é porque essa medicação olanzapina ela pode prender um pouco o <intestino> //
+*APM: <é> //
+*GLJ: por isso que eu tô perguntando //
+*GLJ: tá dormindo bem / não tá demorando muito pra iniciar o sono //
+*GLJ: tá [/1] tá ficando na cama muito tempo pra iniciar o sono / ou não //
+*APM: <não> //
+*GLJ: ele <vem / deita> e dorme //
+*GLJ: &a [/1] <acorda muitas> +
+*APM: <demora uns> vinte minutos / <meia hora> //
+*GLJ: <ah / ótimo> //
+*GLJ: acorda muitas vezes à noite //
+*APM: não / eu nũ acordo à noite não //
+*GLJ: não //
+*GLJ: nem pra ir ao banheiro //
+*APM: não //
+*GLJ: tá bebendo bastante água //
+*APM: bebo //
+*APM: ô doutor / antes d' eu tomar onlanzapina / eu tomava trifluoperazina //
+*GLJ: ham ham //
+*APM: aí a minha menstruação nũ vinha não //
+*GLJ: hum //
+*GLJ: e <agora> //
+*APM: <é por causa> do remédio &a [/1] agora ela vem //
+*APM: depois que eu comecei tomar &ola [/1] onlanzapina //
+*GLJ: e ela tá vindo de quanto em quanto tempo //
+*GLJ: <tá> +
+*APM: <vem> todo mês //
+*GLJ: mas / de maneira regular //
+*APM: é //
+*GLJ: cê começou onlanzapina quando mesmo //
+*APM: ah + 
+*GLJ: faz um ano //
+*GLJ: ou faz mais tempo //
+*APM: faz tempo //
+*APM: eu acho que foi desde dois-mil-e-dezessete / que eu tomo onlanzapina //
+*GLJ: ah / faz bastante tempo então //
+*APM: é //
+*GLJ: a gente te recomendou / nas últimas consultas / que / você tentasse alterar um pouco a dieta / e fizesse alguma atividade física / mesmo que em casa // 
+*GLJ: tem feito alguma dessas duas coisas //
+*GLJ: ou dieta / ou atividade física //
+*APM: não //
+*GLJ: nada //
+*APM: nts nts //
+*GLJ: nem caminhada também //
+*APM: não / eu só vou nos lugares a pé / quando eu tenho que ir né //
+*GLJ: tipo supermercado // 
+*APM: é //
+*GLJ: cê vai ao supermercado sozinha //
+*APM: vou //
+*GLJ: ou precisa de alguém ir te acompanhando //
+*APM: não / eu vou / a maioria das vezes sozinha / mas quando &car [/1] é coisa pesada / aí o meu irmão me busca lá // 
+*GLJ: hum hum //
+*GLJ: faz assim pra mim // 
+*GLJ: gora assim //
+*GLJ: gora assim //
+*GLJ: um de cada vez / assim //
+*GLJ: tá //
+*GLJ: nũ tá tremendo não né //
+*APM: não //
+*GLJ: tô vendo que não //
+*GLJ: caiu alguma vez / nesses últimos meses / em casa //
+*APM: também <não> //
+*GLJ: <também não> //
+*GLJ: tá perdendo o equilíbrio não //
+*APM: não //
+*GLJ: hum hum //
+*GLJ: então acho [/1] me parece tá tudo bem né //
+*APM: é / graças a Deus tá tudo bem //
+*GLJ: hum //
+*GLJ: tão tá bom //
+*GLJ: eu vou discutir o caso com o Breno //
+*GLJ: cê tem [/2] cê me empresta o seu +
+*APM: eu só [/1] só engordei um pouco / <né> //
+*GLJ: <ahn> //
+*APM: continuo engordando //
+*GLJ: hum hum //
+*GLJ: o último exame / que a gente fez em junho / o triglicérides e o colesterol / ambos estavam / um pouco aumentados //
+*GLJ: e / a glicose tava boa //
+*GLJ: esse é um dos motivos da gente ter / recomendado que cê fizesse pelo menos algum tipo de / dieta //
+*GLJ: você / come muito doce //
+*APM: eu tô comendo &n [/1] depois da janta / muito <doce>  //
+*GLJ: <tá> te dando muita fome //
+*APM: ah / é que eu vou comendo //
+*GLJ: mas ao longo do dia também / <cê fica com> +
+*APM: <ao longo> do dia / não //
+*GLJ: só à <noite> //
+*APM: <mais> à noite //
+*GLJ: cê acorda de manhã pra ir na [/2] ir abrir a geladeira e comer / ou <não> //
+*APM: <não> //
+*GLJ: e é mais / doce / mesmo / à noite //
+*APM: é //
+*GLJ: é //
+*GLJ: tem muito doce na sua casa //
+*APM: é porque eu compro chocolate //
+*GLJ: é você quem compra //
+*APM: é //
+*GLJ: e é só você quem come //
+*GLJ: ou seus pais também //
+*APM: não / eles comem mas pouco //
+*GLJ: cê come bem mais //
+*APM: é //
+*GLJ: hum hum //
+*APM: eu moro só com meu pai e com a minha irmã //
+*GLJ: ah / sua <mãe não> +
+*APM: <a minha mãe> já morreu já //
+*GLJ: ah / sim / só que sua irmã é mais velha né //
+*APM: é //
+*APM: dois anos / só mais velha //
+*GLJ: cê acha que / todo mundo em casa tá engordando um pouquim / ou só você //
+*APM: é que ela faz tratamento pra depressão / né //
+*GLJ: a sua irmã //
+*APM: é / &t +
+*APM: aí / ela engordou um pouco também / por causa dos medicamentos que ela toma //
+*GLJ: hum hum //
+*GLJ: essa onlanzapina foi aumentada pra quinze miligramas / já tem bastante tempo / nũ é / ou não //
+*GLJ: tava dez antes //
+*APM: uns quatro mês //
+*GLJ: é //
+*GLJ: que na última consulta / cê já [/1] já estava com [/1] com quinze //
+*APM: <é> //
+*GLJ: cê toma três comprimidos de cinco / <nũ é> //
+*GLJ: <pega na farmácia> //
+*APM: <pego na &secre> [/2] na farmácia //
+*GLJ: hum hum //
+*GLJ: tá bom //
+*GLJ: eu vou / discutir o seu caso e já volto aqui // 
+*APM: <tá> //
+*GLJ: cê <tem> / a carteirinha // 
+*APM: ô doutor / tem como cê fazer o relatório pra mim //
+*GLJ: hum hum //
+*GLJ: &he / por qual motivo //
+*APM: é porque +
+*GLJ: é relatório pra quem //
+*APM: é porque / eu &f [/1] vou &f [/2] vou ter que fazer uma perícia no ieneesseesse //
+*GLJ: tá //
+*APM: e uma perícia também / &he / por causa da beagá trans //
+*GLJ: hum hum //
+*APM: aí o [/1] o mesmo relatório pras duas coisa //
+*GLJ: tá //
+*GLJ: cê dirige //
+*APM: não //
+*GLJ: ah / o <motivo> +
+*APM: <eu tem> carteira / mas eu nũ dou conta de dirigir mais não //
+*GLJ: ham ham //
+*GLJ: e aí esse relatório pra beagá trans / é por conta de quê //
+*APM: pra pegar o passe livre //
+*GLJ: ah / tá //
+*GLJ: tá bom //
+*GLJ: vou fazer sim //
+*APM: mas aí cê faz um pras / duas coisa / porque +
+*GLJ: fazer o mesmo e / te dar duas <cópias> //
+*APM: <é> //
+*GLJ: né //
+*APM: não / pode ser uma cópia só / é só pra eu levar no dia da perícia //
+*GLJ: hum hum //
+*APM: eu nũ sei se es vão pedir //
+*GLJ: não / sim / eu faço levo //
+*GLJ: tiro duas cópias / carimbo as duas e te entrego //
+*APM: <pode> ser uma só / &a [/1] <aí serve pras duas> //
+*GLJ: <caso &s> &s [/2] <se &vo [/2] se você perder> uma / tem outra <hhh> //
+*APM: <tá> //
+*GLJ: já volto aqui //
+*GLJ: <xá eu> + 
+*APM: ô doutor / e isso aqui é passe livre / <&in> [/1] inter / estadual //
+*GLJ: hum hum //
+*GLJ: eu preencho //
+*APM: tem como você preencher isso daí pra mim //
+*GLJ: sim //
+*GLJ: a eleemeé nũ precisa renovar agora não //
+*APM: não //
+*GLJ: tá //
+*GLJ: &j [/1] já [/1] daqui a +
+*GLJ: <já> //
+*APM: cê [/1] cê já preencheu de algum paciente esse passe livre &inters [/1] <interestadual> //
+*APM: já //
+*GLJ: hum hum //
+*APM: eu acho que precisa de um assinatura de um psiquiatra e de um médico / né //
+*GLJ: sim //
+*APM: tá //
+*GLJ: eu vou + 
+*GLJ: já já eu retorno aqui //
+*APM: tá //
+*GLJ: pausa ou não //
+*SLG: oi //
+*GLJ: &con +
+*GLJ: xxx ir ao banheiro / rapidinho //
+*APM: tá //
+*GLJ: e preciso / desse / papel //
+*GLJ: que cê me pediu / precisa de uma pessoa não médica / pra carimbar também //
+*GLJ: aí eu vou pedir pra / enfermeira //
+*GLJ: nossa lá //
+*APM: eu acho que tem que ser um psiquiatra / e um médico / <doutor> //
+*GLJ: <é um> médico / e um não médico //
+*APM: é //
+*GLJ: já volto //
+*LAU: hoje tem mais algumas tarefas / que a gente gostaria de / realizar com você //
+*LAU: gostaria de saber se tudo bem //
+*APM: tá / pode ser //
+*LAU: tá //
+*LAU: então eu só vou / aguardar / ele retornar / ele foi pegar a receita / né //
+*APM: ele ia pedir a enfermeira pra assinar um papel / e ia no banheiro //
+*LAU: ah / tá //
+*LAU: então assim que [/1] que ele retornar / e te liberar / a gente [/2] a gente conduz / e a gente inicia //
+*APM: <tá> //
+*LAU: <tá> bom //
+*LAU: como que você tá //
+*APM: tô bem / graças a Deus //
+*LAU: que bom //
+*LAU: primeiro / deixa eu confirmar com você //
+*LAU: você / já realizou / algumas / tarefas //
+*LAU: cê se recorda delas //
+*APM: <aqui> //
+*LAU: <uma do telefone> //
+*LAU: é //
+*APM: é //
+*APM: hum hum //
+*LAU: de / assinar cheque / contar dinheiro / correto //
+*APM: é //
+*LAU: tá //
+*LAU: então hoje falta só a gente / finalizar //
+*APM: é //
+*LAU: xxx as outras / olha só //
+*APM: hum hum //
+*GLJ: pro dia vinte-e-cinco de outubro / e fiz os relatórios //
+*APM: tá //
+*GLJ: que você me pediu //
+*GLJ: cabei fazendo à mão //
+*GLJ: esse é o relatório que cê pode levar ao ieniesseesse //
+*GLJ: aqui eu preenchi o relatório / pra que você consiga / esse processo //
+*GLJ: não vamos pedir / exames por agora // 
+*GLJ: renovei as receitas //
+*GLJ: a setralina / cê / &com [/2] cê compra ou <pega> //
+*APM: <compro> //
+*GLJ: <compra> né //
+*GLJ: eu / fiz a de <cem miligramas> //
+*APM: <porque ela nũ dá no posto de saúde não> //
+*GLJ: é //
+*GLJ: aqui tem as receitas / tantos da onlanzapina / quanto da sertralina / separadas //
+*GLJ: pra dois meses //
+*GLJ: a onlanzapina / em cada papel / tá pra um mês / né //
+*GLJ: a sertralina / só / no mesmo papel / pra dois meses //
+*APM: hum hum //
+*GLJ: esse pedido de ressonância continua com você //
+*GLJ: guardando //
+*GLJ: isso aqui pode ficar com você também //
+*APM: ô doutor / quem tem esquizofrenia é considerado deficiente mental //
+*GLJ: não //
+*APM: não //
+*GLJ: mas / as vezes passa nisso aí //
+*APM: é //
+*GLJ: hum hum //
+*APM: ham //
+*GLJ: &he / então / só / preenchi mesmo //
+*GLJ: <tá> //
+*APM: <hum hum> //
+*GLJ: vamos ver / o que acontece //
+*GLJ: mas então é isso //
+*APM: tá //
+*GLJ: tá bom //
+*GLJ: cê tá fazendo o / exame com ela //
+*LAU: <começar agora> //
+*APM: <ela vai começar> agora //
+*GLJ: <tá> //
+*LAU: <a gente vai> +
+*GLJ: <aí eu vou> pedir pra gente ir pra outra sala / porque essa sala aqui vai ser usada pra gravação do próximo paciente //
+*APM: <tá> //
+*GLJ: <tá bom> //
+*GLJ: <brigado / viu yyy> //
+*APM: <brigada> / <doutor> //
+*LAU: <a outra> tá ocupada já //
+*GLJ: oi //
+*GLJ: <tem> //
+*LAU: sabe se já tem alguma sala <desocupada> //
+*LAU: aqui a outra //

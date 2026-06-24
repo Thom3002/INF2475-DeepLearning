@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "query": "([medical speech] OR [clinical audio] OR [doctor-patient conversation] OR [telemedicina] OR [teleatendimento]) AND ([Portuguese] OR [PT-BR]) AND ([dataset] OR [corpus])",
+    "since": "2016-01-01",
+    "until": null,
+    "databases": [
+      "arxiv",
+      "openalex",
+      "pubmed",
+      "semantic_scholar"
+    ],
+    "max_papers_per_database": 5,
+    "enrichment_databases": [
+      "crossref",
+      "web_scraping"
+    ],
+    "max_cited_by": 100,
+    "timestamp": "2026-06-22T14:51:05.210810+00:00",
+    "version": "0.6.7",
+    "runtime_seconds": 14.281762799999342,
+    "runtime_seconds_per_database": {
+      "pubmed": 0.6778202000004967,
+      "arxiv": 0.8738236000008328,
+      "semantic_scholar": 1.1644349999987753,
+      "openalex": 10.998874000000797
+    },
+    "failed_databases": []
+  },
+  "papers": [
+    {
+      "title": "Hörersignale in Arzt-Patienten-Gesprächen: Unterschiede zwischen gedolmetschten deutsch-portugiesischen und einsprachigen deutschen und portugiesischen Gesprächen",
+      "abstract": "Backchannels are an important linguistic mean for ensuring the hearer’s understanding and for directing the conversation. In this way, they have also an influence on the diction of the conversation. This is why they have attracted a lot of attention within the research about Portuguese discourse markers in general (Marcuschi, L. A. (1986). Análise de conversacão (Princípios, Bd. 82). Ática.; Urbano, H. (2006). Marcadores discursivos basicamente interativos. In C. C. A. S. Jubran & I. G. V. Koch (Hrsg.), Gramática do português culto falado no Brasil, vol. 1: Construção do texto falado (S. 497–527). Editora da Unicamp. for Brazilian Portuguese and Brauer-Figueiredo 1999 for European Portuguese), as well as research on the co-construction of the spoken text (Koch, I. G. V. (2006). Especificidade do texto falado. In C. C. A. S. Jubran & I. G. V. Koch (Hrsg.), Gramática do português culto falado no Brasil, vol. 1: Construção do texto falado (S. 39–46). Editora da Unicamp). In doctor-patient communication, backchannels have an important functionality for the accommodation of knowledge. This article aims at analysing what happens with regard to backchannels in interpreter-mediated doctor-patient conversations and what the differences are between monolingual and interpreter-mediated conversations. The analysis is based on monolingual German and Portuguese doctor-patient conversations as well as on interpreter-mediated German-Portuguese conversations documented in the Corpus „Interpreting in Hospitals“ (Bührig, K., Kliche, O., Pawlack, B., & Meyer, B. (2012). The corpus „Interpreting in hospitals“ – Possible applications for research and communication trainings. In T. Schmidt & K. Wörner (Hrsg.), Multilingual corpora and multilingual corpus analysis (Hamburg studies in multilingualism, Bd. 14, S. 305–315). Benjamins.).",
+      "authors": [
+        {
+          "name": "Thomas Johnen",
+          "affiliation": "Westsächsische Hochschule Zwickau"
+        }
+      ],
+      "source": {
+        "title": "LIBDOC - Westsächsische Hochschule Zwickau",
+        "isbn": "978-3-662-68735-2",
+        "issn": null,
+        "publisher": "J.B. Metzler, Berlin, Heidelberg",
+        "source_type": "repository"
+      },
+      "publication_date": "2024-01-01",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-662-68735-2_16",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-662-68735-2_16.pdf",
+      "doi": "10.1007/978-3-662-68735-2_16",
+      "citations": 0,
+      "keywords": [
+        "Biology",
+        "Chen",
+        "Gedolmetschte Arzt-Patienten-Gespräche",
+        "Hörersignale",
+        "Linguistics",
+        "Paleontology",
+        "Philosophy",
+        "Wissensakkommodation"
+      ],
+      "comments": null,
+      "page_count": 15,
+      "page_range": "283–297",
+      "found_in": [
+        "openalex"
+      ],
+      "paper_type": "inbook",
+      "fields_of_study": [
+        "Arts and Humanities",
+        "Social Sciences"
+      ],
+      "subjects": [
+        "Language and Linguistics",
+        "Linguistic research and analysis"
+      ],
+      "language": "de",
+      "is_open_access": false,
+      "is_retracted": false,
+      "funders": [],
+      "references": [
+        "10.1075/hsm.14.21buh",
+        "10.1075/hsm.3.04buh",
+        "10.1075/hsm.5.22joh",
+        "10.1075/hsm.9.09mey",
+        "10.1515/9783110169188.2.18.1213",
+        "10.1515/9783110169188.2.22.1576",
+        "10.1515/9783110685664-007",
+        "10.1515/9783110863574.503",
+        "10.1515/9783111372914",
+        "10.24824/978858042040.1",
+        "10.25592/uhhfdm.8308",
+        "10.5117/TVT2009.2.MODI355"
+      ],
+      "cited_by": []
+    }
+  ],
+  "type": "search_result"
+}

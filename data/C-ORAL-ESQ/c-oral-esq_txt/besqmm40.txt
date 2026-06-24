@@ -1,0 +1,167 @@
+*BRU: e aí / yyy / que que cê me conta //
+*ROS: tá tudo bem / graças <a Deus> //
+*BRU: <tá tudo bem> //
+*ROS: <tá tudo bem> //
+*BRU: <como é que tem sido> / o seu dia a dia / que que cê tem feito / tá trabalhando //
+*ROS: tô trabalhando / normalmente //
+*BRU: é //
+*ROS: ham ham //
+*BRU: que que cê tem feito //
+*BRU: faxina //
+*ROS: faxina / trabalho final de semana no Restaurante yyy / lá da cidade //
+*BRU: ah é //
+*ROS: <é> //
+*BRU: <yyy> por que / cê fala //
+*ROS: é o nome dele é yyy //
+*BRU: hhh o nome dele é Obrigatório //
+*ROS: isso //
+*BRU: tendi //
+*BRU: e / ele chama Restaurante yyy //
+*ROS: é //
+*BRU: sei //
+*ROS: é pizzaria / vende açaí / e sanduíche //
+*BRU: hum //
+*ROS: <xxx> +
+*BRU: <e cê gosta> / de trabalhar lá //
+*ROS: gosto //
+*ROS: vende umas massa também //
+*BRU: que que cê faz exatamente lá //
+*ROS: eu fico mais na cozinha //
+*BRU: fica mais na cozinha //
+*ROS: isso //
+*BRU: mas cê é ajudante / ou cê é cozinheira lá //
+*ROS: eu sou ajudante e cozinheira / porque eu faço / &t quase tudo //
+*BRU: é //
+*ROS: <ham ham> //
+*BRU: <e que que cê> cozinha lá //
+*ROS: ah / faço um tanto de coisa gostosa lá / viu Bruna //
+*BRU: me conta / uai / que que cê &nun [/1] nunca trouxe uma &coi [/2] uma coisinha pra mim //
+*ROS: faz um crepe lá <gostoso> //
+*BRU: <crepe> //
+*BRU: <é mesmo> //
+*ROS: <um crepe cuma saladinha> //
+*BRU: hum hum //
+*BRU: que que cê gosta de fazer mais lá //
+*ROS: recheio pos crepe //
+*BRU: <recheio> //
+*ROS: <faço recheio> pos crepe //
+*BRU: e cê é boa //
+*ROS: faço porções // 
+*BRU: <porção> //
+*ROS: <as porções> é tudo yyyy suco //
+*BRU: hum //
+*BRU: Nossa / então cê / prendada <mesmo> //
+*ROS: <trabalho> mesmo / graças a Deus //
+*BRU: então tá tudo certo //
+*ROS: tudo certo / graças a Deus //
+*BRU: e / seu filho //
+*ROS: meu filho / tá lá em casa comigo //
+*BRU: tá bem também //
+*ROS: tá bem // 
+*BRU: e' tá trabalhando //
+*ROS: tá //
+*BRU: e' trabalha com o que mesmo //
+*ROS: e' trabalha na [/1] na yyy / companhia de [/1] terceirizada da Vale //
+*BRU: sei //
+*BRU: ah é / cê tinha comentado mesmo //
+*ROS: hum hum //
+*BRU: ocê que busca / esse medicamento //
+*ROS: <sou eu / que busco> // 
+*BRU: <você mesma> / né //
+*ROS: ham ham //
+*BRU: hum hum //
+*BRU: &he / qual que é seu peso //
+*ROS: deu sessenta-e-três / quilo //
+*BRU: e qual que é a altura / sua //
+*ROS: um e cinquenta-e-oito / mais ou menos //
+*BRU: deixa eu ver se tá faltando alguma coisa aqui //
+*BRU: aqui //
+*BRU: e / tá tomando / cinco miligramas / né //
+*ROS: <cinco miligrama> //
+*BRU: <aí a receita> tá durando pa dois <meses> //
+*ROS: <isso> //
+*BRU: tá tomando que horas //
+*ROS: <ahn> //
+*BRU: <yyy> // 
+*BRU: que horas cê tá tomando //
+*ROS: <tomando> à noite //
+*BRU: <à noite> //
+*ROS: dez horas //
+*BRU: tá dormindo bem //
+*ROS: tô dormindo bem / tranquilo //
+*BRU: ganhou peso //
+*BRU: como é que tá o peso / tá conseguindo fazer pelo menos uma caminhadinha / alguma coisa //
+*ROS: ah / tô fazendo muita caminhada não / Bruna //
+*BRU: mas cê reparou se ocê ganhou peso / ou se tá tudo mantendo //
+*ROS: tá mantendo //
+*BRU: tá mantendo //
+*ROS: ham ham //
+*BRU: que bom //
+*BRU: e o escitalopram / tá tomando //
+*ROS: tô //
+*BRU: &est [/1] esse / escitalopram te ajuda em quê //
+*ROS: ele dá mais &he / alegria né //
+*ROS: que eu ficava muito triste né // 
+*BRU: e aí depois que / <&ma> +
+*ROS: <tomando> escitalopram / dá mais alegria //
+*BRU: cê fica tranquila //
+*ROS: é //
+*BRU: nũ tá tão preocupada mais com seu filho / que eu lembro que às vezes cê ficava um pouco mais preocupada com ele / como é que tá essa questão / dessa preocupação //
+*ROS: tá tudo bem / graças a Deus //
+*ROS: <não> //
+*BRU: nũ tá / ficando muito preocupada quando ele sai / vai <trabalhar> //
+*ROS: não //
+*ROS: <é> //
+*BRU: que eu lembro / que a gente / que &q que foi que aconteceu / que a gente mexeu / na medicação / e ocê ficou um pouco mais <preocupada> / né //
+*ROS: fiquei //
+*BRU: que que foi / a gente reduziu olanzapina / né //
+*ROS: é //
+*BRU: aí essa dose / que é a dose boa pr' ocê //
+*ROS: a dose / é um comprimido / de &ma [/1] à noite //
+*BRU: tá //
+*BRU: tão é isso mesmo //
+*BRU: então a sua dose é essa //
+*ROS: hum hum //
+*BRU: então tá / acho que tá tudo / muito tranquilo / né / yyy //
+*ROS: hum hum //
+*BRU: o' //
+*ROS: ham ham //
+*BRU: essa receita aqui é do escilalopram / dois meses / e a da olanzapina / sessenta comprimidos / com a data de hoje //
+*ROS: tá oquei //
+*BRU: e aí o [/1] o resto é eleemeé / que eu / renovei aí //
+*ROS: hum hum //
+*BRU: tão / o retorno / nós vão marcar pa janeiro / né //
+*ROS: hum hum //
+*ROS: yyyy //
+*ROS: posso perder esse papel não //
+*BRU: cê acha que dá pr' ocê &v [/6] cê vai viajar no / Ano-Novo //
+*ROS: vou //
+*BRU: cê vai voltar que dia //
+*ROS: vou nada //
+*BRU: vai <não> //
+*ROS: <precisa> preocupar com / viagem não / pode marcar o meu [/2] o meu <horário tranquilo> //
+*BRU: <posso> [/1] eu posso marcar dia dois de janeiro //
+*ROS: pode marcar //
+*BRU: pode //
+*ROS: <posso> //
+*BRU: <que horas> / uma e meia //
+*ROS: pode ser //
+*BRU: duas horas / <duas &hor> +
+*ROS: <uma e meia> //
+*BRU: uma e meia //
+*ROS: ham ham //
+*BRU: tão vai tá marcado aqui dia dois de janeiro //
+*ROS: ham ham //
+*BRU: inicim do ano / hein //
+*ROS: tá oquei //
+*BRU: combinado //
+*ROS: combinado //
+*BRU: tão tá //
+*BRU: aí a gente se encontra então no início do ano / feliz Natal / feliz Ano-Novo pr' ocê //
+*ROS: brigado / p' cê <também> // 
+*BRU: <viu> //
+*ROS: <brigado> //
+*ROS: <colher o exame> //
+*BRU: <aí> / xá eu só tirar aqui / o [/1] o microfonizinho / cê vai lá agora que o pessoal / vai / <só colher o exame> [/1] o sangue //
+*ROS: aonde que vai tirar agora //
+*BRU: acho que vai tirar aqui fora mesmo / es vão / levar você numa sala yyyy / xá eu só avisar pra eles //

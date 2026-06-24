@@ -1,0 +1,304 @@
+*PHP: tudo bem / yyy / meu nome é Pedro / <tá> //
+*MMD: <beleza> //
+*PHP: geralmente é o Rafael que te atende / né //
+*MMD: <ah é / o doutor / Rafael> //
+*PHP: <Rafael tá [/1] tá de férias> //
+*MMD: hum //
+*PHP: como é que tão as <coisas> //
+*MMD: <tô> bem / graças a Deus //
+*PHP: tá bem //
+*PHP: cê teve com ele aqui / a última vez / <tem muito tempo> //
+*MMD: <não / foi com> / doutor Galilei <Galileu> //
+*PHP: <ah> / <xxx> //
+*MMD: <que e' &tf> [/1] casou //
+*PHP: <ah isso> //
+*MMD: <doutor Rafael> //
+*PHP: Rafael casou / é verdade //
+*PHP: é //
+*PHP: mas tem tempo isso / que cê teve aqui / tem pouco tempo / vamo dar uma olhada <aqui> //
+*MMD: <acho que> um mês //
+*PHP: um mês mais ou menos //
+*MMD: hum hum //
+*PHP: beleza //
+*PHP: cê &mi [/1] me fala aqui / por favor yyy / &he / &s eu sempre / gosto de fazer isso né / nũ sei se é habitual assim das outras pessoas que te atendem //
+*PHP: mas sempre pergunto pr' pro pro paciente o que que ele tá usando né / de medicação //
+*PHP: aí me me fala assim exatamente o que que cê tá usando / e &k como que você tá usando né //
+*MMD: testosterona //
+*PHP: <hum> //
+*MMD: <Hormus> //
+*PHP: certo //
+*MMD: de três em três mês //
+*PHP: é [/1] é uma / aplicação //
+*MMD: testesterona / hormônio / masculino / é aplicação //
+*PHP: aplicação / tá //
+*PHP: que mais //
+*MMD: &he / clozapina //
+*PHP: quantos comprimidos //
+*MMD: cinco comprimido à noite / de cem miligrama //
+*PHP: perfeito //
+*MMD: &he / clorpromazina //
+*MMD: três comprimido &an +
+*PHP: <hum hum> //
+*MMD: <nts> e sertralina / um à noite //
+*PHP: maravilha //
+*PHP: muito bom //
+*PHP: isso mesmo //
+*PHP: &he / e você então / como é que você tá se sentindo / <emocionalmente> //
+*MMD: <as as [/2]> as vozes / diminui bastante //
+*PHP: é //
+*MMD: diminuiu //
+*MMD: de vez em quando eu ouço um pouquim na parte da noite //
+*MMD: mas que diminui bastante diminuiu //
+*PHP: sei //
+*PHP: como é que eram essas vozes assim / essas <vozes xxx> //
+*MMD: <eas ficava falando> só assim o' / eu te odeio / eu te odeio //
+*MMD: ou eas ficava assim / ah que / ficava rindo / pá //
+*PHP: <hum hum> //
+*MMD: &ae aí eu parei assim / tem muito &temp[/1] &he / tempo isso / aí eu / comecei a não dar importância / <nũ dar> importância pas voz / parei também de discutir com as voz / aí eas / some //
+*PHP: que que cê acha que foi o ponto de melhora / assim / o que que <cê acha> +
+*MMD: <ah / o tratamento> //
+*PHP: <é> //
+*MMD: <tratamento> com [/1] nts / com a psiquiatria né //
+*MMD: até a / psicologia também / vou na psicóloga //
+*PHP: hum <hum> //
+*MMD: <e a> religião também / acho que a religião me ajudou bastante //
+*PHP: ajuda <bastante> //
+*MMD: <ham ham> //
+*PHP: sei / qual que é a sua religião //
+*MMD: evangélica //
+*PHP: bacana //
+*PHP: cê frequenta alguma igreja //
+*MMD: frequento //
+*PHP: qual que é //
+*MMD: Deus é Amor //
+*PHP: Deus é Amor //
+*PHP: você já faz tratamento / aqui nesse ambulatório / há há muito tempo //
+*MMD: Nossa //
+*MMD: eu comecei aqui desde a época que eu fui indicado pa cirurgia bariátrica / acho que em dois-mil-e-dezoito //
+*MMD: aí eu fui pedi po [/1] po João [/1] João &Fili / acho que  nũ sei como o nome dele / me [/1] me consultar / porque eu tem / esse problema de / esquizofrenia //
+*PHP: <sei> //
+*MMD: <aí> fiquei fazendo acompanhamento aqui //
+*MMD: porque lá meu bairro também não tem / psiquiatra //
+*PHP: e antes como é que era / antes d' ocê começar a tratar aqui //
+*MMD: eu comecei &tra +
+*MMD: teve uma época que teve psiquiatra lá no posto do Vale / só que e' saiu //
+*PHP: hum hum //
+*MMD: aí eu ficava indo lá trocando receita //
+*MMD: só que aí como eu fui indicado pra cá &pq pa / bariátrica / aí eu aproveitei continuei o tratamento aqui //
+*PHP: ah / entendi //
+*PHP: sei //
+*MMD: <é> //
+*PHP: aí / cê aproveitou que ia &f[/1] fazer a bariátrica e conseguiu o <acompanhamento> //
+*MMD: ham ham //
+*PHP: tendi //
+*PHP: e antes / de começar o tratamento aqui / cê ouvia muita <voz &sh> +
+*MMD: <ouvia> / No' //
+*MMD: <tava tendo crise> //
+*PHP: ficava muito <cismado / &as> +
+*PHP: ficava muito cismado / assim //
+*MMD: Nossa / demais //
+*PHP: hum hum //
+*MMD: aí cê falou o negócio da voz / eu tenho uma voz meio / fina viu //
+*PHP: uhn //
+*MMD: eu venho falando / ah / da voz / como é +
+*MMD: eu tem uma voz meio fina //
+*PHP: hum hum //
+*MMD: o [/1] a endocrinologia pediu é o [/1] o ultrassom / da tiróide / vou fazer em novembro //
+*PHP: tendi //
+*MMD: <é> //
+*PHP: que às vezes a tireóide pode crescer / às vezes ela pode comprimir né / o nervo / que é <responsável> pela [/1] pela fonação né //
+*MMD: <yyyy> //
+*PHP: que é o nervo laríngeo recorrente / às <vezes tem uma compressão> / a a voz fica um pouco [/1] pouco rouca assim né //
+*MMD: hum hum //
+*PHP: bom / &he / me fala aqui como é que tá seu sono / seu <apetite> //
+*MMD: <Nossa eu durmo> [/2] eu durmo dez e meia / acordo oito hora //
+*PHP: coisa <boa> //
+*MMD: <durmo> bem também //
+*PHP: seu apetite / como que tá //
+*MMD: é / eu tô [/2] eu faço dieta né //
+*PHP: <hum hum> //
+*MMD: <faço> dieta / sigo a dieta da nutrição lá da [/1] do Jenny Faria //
+*PHP: entendi //
+*PHP: e / seu intestino //
+*MMD: tá funcionando //
+*MMD: <teve vez> +
+*PHP: <com qual frequência> //
+*MMD: acho que de dois em dois dia //
+*MMD: <é> //
+*PHP: uma vez a cada dois <dias> //
+*PHP: tá saindo muito duro / muito ressecado //
+*MMD: sai um pouco duro //
+*PHP: hum hum //
+*PHP: tem que fazer força / mais esforço assim às vez <pra sair> //
+*MMD: <tem vez> que eu faço / <é> //
+*PHP: <tá> //
+*PHP: cê tá usando algum laxante / <algum> +
+*MMD: <tô> / Muvinlax //
+*PHP: Muvinlax cê tá usando com qual frequência //
+*MMD: eu uso ele de duas [/2] de e duas vezes na / semana / uma no domingo / e outra na quarta //
+*PHP: lactulose você já usou //
+*MMD: <não> //
+*PHP: <aquele xarope> //
+*MMD: nts nts //
+*PHP: que a lactulose às vezes / você conseguiria ela pelo posto //
+*PHP: Muvinlax cê tem de comprar né //
+*MMD: é / Muvinlax eu compro //
+*PHP: às vez seria interessante sabe / cê tomar todo dia a lactulose / é um xarope <docinho assim> //
+*MMD: <é / mas até eu me> &dê +
+*PHP: <é> //
+*MMD: eu &he / esse remédio Muvinlax / eu tava tomando ele todo dia / teve um dia que eu acordei todo assim <coisa &sá> é //
+*PHP: todo dia nũ é legal né //
+*PHP: <assim> +
+*PHP: <sei / sei> //
+*MMD: <eu tava &to> [/3] eu tava tomando e' / &e eu ia / té tava trabalhando / quando eu fui trabalhar / tava cheio de coisa assim / minha mãe teve que lavar o <colchão também> //
+*MMD: por isso que eu passei tomar de domingo e quarta //
+*PHP: acontece //
+*PHP: me fala aqui //
+*PHP: nessa escala aqui visual +
+*PHP: só um minuto //
+*PHP: que esse computador aqui às vez tem que / cheio de +
+*PHP: tem que por a senha toda hora hhh //
+*PHP: nessa escala visual aqui o' / qual que seria [/1] cê diria que é o formato das suas fezes assim nesse momento //
+*MMD: <ham ham> //
+*PHP: &ti [/1] isso aqui é tipo aquele cocôzim de cabrito / que cê <tem que fazer> muita força pra sair / isso aqui seria <uma &fe> +
+*MMD: <nũ acho esse> aqui não / <seria tipo o três> //
+*PHP: <seria diarreia> //
+*PHP: tipo o três //
+*PHP: <tá> //
+*MMD: <ham ham> //
+*PHP: beleza //
+*PHP: mas acho que ainda assim dá pra gente melhorar um pouco / sabe //
+*MMD: dá //
+*PHP: talvez você tomar &unvin [/1] o Muvinlax uma vez a mais por semana / ou a gente começar uma lactulose / entendeu //
+*MMD: <quanto que ea tá> //
+*PHP: a lactulose como eu te falei / cê pode conseguir ela no posto / <é um xarope> +
+*PHP: o' / a lactulose / cê pode conseguir no posto / então cê nũ precisaria comprar //
+*PHP: mas se você quiser comprar / por exemplo / o' / &he / um [/1] um frasquinho / é dez reais //
+*MMD: ah / tá barato / doutor //
+*PHP: é um xarope / né //
+*PHP: assim / aí tem cento-e-vinte emeele / a gente pode começar usando quinze emeele por dia / vai durar mais ou menos aí uns dez dias //
+*PHP: então / se cê for tomar todo dia / por mês cê vai gastar uns trinta reais //
+*MMD: <é> //
+*PHP: <com ela / sabe> //
+*PHP: aí cê acha que pesa / já //
+*PHP: <não né> //
+*MMD: <mas eu> tenho evacuado //
+*PHP: ah vão tentar pegar no posto //
+*MMD: nts ah / eu &n +
+*MMD: aque' posto lá tá por fora rapaz //
+*PHP: quer tentar não hhh //
+*MMD: não nts //
+*MMD: inda dá picadim sô / minha mãe <pega a> +
+*PHP: <mas aí> é porque assim / se ocê for tomar / a lactulose / por exemplo / se você for investir e comprar / trinta reais por mês que sejam / você não vai precisar tomar mais o Muvinlax //
+*MMD: ah / então tá bom //
+*PHP: <tendeu> //
+*MMD: aí <já é outra coisa> //
+*PHP: aí você nũ <precisa> +
+*MMD: <porque o Muvinlax> / ele é / quarenta <reais> //
+*PHP: <é> //
+*PHP: vem <com o quê> //
+*MMD: <se eu for> +
+*PHP: <quantos> sachês //
+*PHP: vinte //
+*MMD: vinte //
+*MMD: aí se eu for usar esse aí / se for no lugar do Muvinlax / tá bom //
+*PHP: é //
+*MMD: <hum hum> //
+*PHP: eu vou conversar com o Breno / vamo ver <assim / que que> ele acha né //
+*PHP: mas assim / &a &u o seu hábito nũ tá um hábito assim / cê nũ tá com constipação / mas se o cocô ainda tá saindo meio duro / cê tá tendo que fazer um esforço / a gente considera um hábito ainda constipado / entendeu //
+*MMD: beleza //
+*PHP: ô yyy / &he / tristeza / falta de ânimo / algum <pensamento ruim> //
+*MMD: <não / na &a> &a +
+*MMD: o esporte me ajuda e muito //
+*PHP: que que cê tá fazendo //
+*MMD: eu pratico corrida / oito quilômetro contando ida e volta / e faço academia //
+*PHP: coisa boa ué //
+*PHP: cê faz muita coisa / cê / é bem ativo então //
+*MMD: é / sou ativo //
+*PHP: ótimo //
+*PHP: beleza //
+*PHP: mais alguma coisa yyy / <que cê> +
+*MMD: <só> isso mesmo bobo //
+*PHP: eu vou ali conversar com o Breno então //
+*MMD: <beleza> //
+*PHP: <aí> / brigado por ter participado aqui da pesquisa / isso ajuda bastante o ambulatório aqui <tá> //
+*MMD: <hum hum> //
+*PHP: tão eu vou lá / e retorno aqui / tá bom //
+*PHP: acho que eles já vão pausar +
+*PHP: ah não //
+*PHP: nũ sei se eles vão pausar ou não mas / enfim //
+*MMD: <guardo> //
+*PHP: pode aguardar aqui / <yyyy> //
+*MMD: uhn //
+*PHP: yyy / conversei com Breno / ele falou assim que pra ser mais prático também / já que você tá tomando Muvinlax / vamo só aumentar um dia da semana que cê tá tomando //
+*PHP: tão cê falou que cê tá tomando quais dias //
+*MMD: domingo e quarta //
+*PHP: pode tomar domingo / quarta / e sexta //
+*MMD: <beleza> //
+*PHP: <vamo fazer> o teste //
+*MMD: <hum hum> //
+*PHP: <tá> //
+*PHP: &he / xá eu fazer a receita da clozapina aqui //
+*PHP: cê tem um exame de sangue aí pra me mostrar //
+*MMD: ah é //
+*PHP: hemograma //
+*PHP: esqueci de te perguntar //
+*PHP: na Farmácia de Minas cê pega o número de comprimido certim / que cê toma //
+*MMD: é //
+*MMD: que eu nũ pego +
+*PHP: os cinco lá que cê toma à noite né //
+*MMD: hum hum //
+*PHP: pode me mostrar //
+*PHP: cença tá //
+*MMD: hum hum //
+*PHP: aqui //
+*PHP: clozapina //
+*PHP: xá eu anotar aqui //
+*PHP: beleza //
+*PHP: cê mora aonde / yyy //
+*MMD: Vale do Jatobá / região Barreiro //
+*PHP: Barreiro / tá //
+*PHP: a sertralina então cê compra //
+*MMD: é / sertralina e o / clorpromazina eu compro //
+*PHP: ah clorpromazina cê nũ pega no posto não //
+*MMD: não //
+*MMD: é barato //
+*MMD: oito <reais> //
+*PHP: <yyyy> //
+*PHP: cê toma três [/1] três de vinte-e-cinco né //
+*MMD: é //
+*PHP: tá bom //
+*PHP: beleza //
+*PHP: Muvinlax cê precisa da receita //
+*MMD: não //
+*MMD: precisa de receita pra comprar não //
+*PHP: precisa não //
+*PHP: que às vezes tem gente que prefere com a receita né //
+*PHP: mas aí então a recomendação é / ao invés de você tomar só / domingo / e / quarta / cê vai tomar sexta também //
+*MMD: <beleza> //
+*MMD: <yyyy> //
+*PHP: tão &s <quarta e sexta> domingo / quarta <sexta domingo> / tá //
+*PHP: aí vamo ver se vai melhorar / porque seu hábito / ainda como cê tá tendo esforço / aí a gente já considera que tá constipado / <né> //
+*PHP: vamo ver se vai melhorar / tá bom //
+*PHP: cê tem o seu cartãozim pra marcar o seu retorno //
+*PHP: eu vou te dar as receitas / vão sair lá do / outro computador / tá //
+*MMD: &he / marca / uma hora que eu chego cedo //
+*PHP: pode deixar //
+*PHP: dia oito do onze à uma hora //
+*PHP: quanto mais cedo você liberar melhor né //
+*MMD: é //
+*PHP: oito / do onze //
+*PHP: certim //
+*PHP: deixa eu só terminar aqui //
+*PHP: oquei //
+*PHP: achei um aqui //
+*PHP: trazer o hemograma na próxima / tá //
+*MMD: beleza //
+*PHP: tá com trinta-e-seis anos né //
+*MMD: trinta-e-seis anos //
+*PHP: pode me acompanhar aqui //
+*PHP: deixa eu tirar isso aqui com você //
+*PHP: licença tá //
+*MMD: hum hum //
+*PHP: aí eu tenho de &co &te [/3] que te entregar duas receitas ali / tá bom //
+*MMD: só guardar //

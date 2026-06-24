@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "query": "([meeting recordings] OR [video conference] OR [teleconference] OR [Zoom] OR [telehealth]) AND ([spontaneous speech] OR [conversational audio]) AND ([Portuguese] OR [PT-BR])",
+    "since": "2016-01-01",
+    "until": null,
+    "databases": [
+      "arxiv",
+      "openalex",
+      "pubmed",
+      "semantic_scholar"
+    ],
+    "max_papers_per_database": 5,
+    "enrichment_databases": [
+      "crossref",
+      "web_scraping"
+    ],
+    "max_cited_by": 100,
+    "timestamp": "2026-06-22T14:51:16.266110+00:00",
+    "version": "0.6.7",
+    "runtime_seconds": 11.050936499999807,
+    "runtime_seconds_per_database": {
+      "arxiv": 0.6250163999993674,
+      "pubmed": 0.7944266999984393,
+      "semantic_scholar": 0.9213789000004908,
+      "openalex": 11.04530429999977
+    },
+    "failed_databases": []
+  },
+  "papers": [],
+  "type": "search_result"
+}

@@ -1,0 +1,5 @@
+# Dependencies for academic paper search with findpapers
+# Install using: pip install -r requirements.txt
+
+findpapers @ git+https://github.com/jonatasgrosman/findpapers.git
+python-dotenv>=1.0.0
