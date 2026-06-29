@@ -6,8 +6,20 @@ readme = "README.md"
 requires-python = ">=3.11"
 
 dependencies = [
+    "faster-whisper>=1.2.1",
     "findpapers @ git+https://github.com/jonatasgrosman/findpapers.git",
+    "ipykernel>=7.3.0",
+    "jiwer>=4.0.0",
+    "pandas>=3.0.3",
+    "pytest>=9.1.1",
     "python-dotenv>=1.0.0",
+    "scipy>=1.17.1",
+    "soundfile>=0.14.0",
+    "tabulate>=0.10.0",
+    "torch>=2.12.1",
+    "torchaudio>=2.11.0",
+    "tqdm>=4.68.3",
+    "transformers>=5.12.1",
 ]
 
 [project.optional-dependencies]

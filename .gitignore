@@ -32,9 +32,8 @@ env/
 Thumbs.db
 
 # Data — sensitive, never commit
-data/raw/
-data/processed/
-data/synthetic/
+data/input/
+data/output/
 
 # Model weights & checkpoints
 models/

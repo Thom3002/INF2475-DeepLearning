@@ -9,9 +9,10 @@
 .
 ├── configs/            # Experiment configuration files (.yaml)
 ├── data/               # Datasets — NOT versioned (see .gitignore)
-│   ├── raw/
-│   ├── processed/
-│   └── synthetic/
+│   ├── input/
+│   │   ├── raw/        # Original C-ORAL-ESQ dataset
+│   │   └── processed/  # Preprocessed audio segments and metadata.csv
+│   └── output/         # Evaluation results and predictions
 ├── models/             # Model weights/checkpoints — NOT versioned
 ├── notebooks/          # Exploratory and experimental notebooks
 ├── src/                # Core reusable Python modules (installable package)
